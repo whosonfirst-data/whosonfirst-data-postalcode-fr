@@ -2,14 +2,19 @@
   "id": 421297055,
   "type": "Feature",
   "properties": {
+    "clustr:alpha":1.0,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:area":0.002448,
+    "geom:area_square_m":21919159.757342,
+    "geom:bbox":"7.06591558456,43.5668830872,7.12888813019,43.6215362549",
+    "geom:latitude":43.595826,
+    "geom:longitude":7.101995,
     "iso:country":"FR",
-    "src:geom":"geoplanet",
+    "mz:hierarchy_label":1,
+    "mz:is_approximate":1,
+    "mz:is_clustr":1,
+    "src:geom":"oa",
     "wof:belongsto":[
         85683323,
         102191581,
@@ -24,7 +29,7 @@
         "gp:id":"12722795"
     },
     "wof:country":"FR",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"44efadd8ae1ea1dfb5cff3a55b9575fc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -38,19 +43,20 @@
         }
     ],
     "wof:id":421297055,
-    "wof:lastmodified":1459813292,
+    "wof:lastmodified":1469485454,
     "wof:name":"06600",
-    "wof:parent_id":"101748955",
+    "wof:parent_id":101748955,
     "wof:placetype":"postalcode",
+    "wof:repo":"whosonfirst-data-postalcode-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    7.065915584564209,
+    43.5668830871582,
+    7.128888130187988,
+    43.62153625488281
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[[[7.12884473800659,43.58179092407227],[7.12388324737549,43.56737899780273],[7.12328624725342,43.5668830871582],[7.07581758499146,43.58282852172852],[7.06663465499878,43.58796310424805],[7.06591558456421,43.59596633911133],[7.07009696960449,43.60878753662109],[7.07348775863647,43.61024475097656],[7.11735534667969,43.62147521972656],[7.11949682235718,43.62153625488281],[7.12592887878418,43.61933898925781],[7.12683820724487,43.61895751953125],[7.1282320022583,43.61837387084961],[7.12871789932251,43.61793899536133],[7.12888813018799,43.58194732666016],[7.12884473800659,43.58179092407227]]],"type":"Polygon"}
 }

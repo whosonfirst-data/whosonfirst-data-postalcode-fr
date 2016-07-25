@@ -2,36 +2,42 @@
   "id": 421298731,
   "type": "Feature",
   "properties": {
+    "clustr:alpha":1.0,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:area":0.005739,
+    "geom:area_square_m":52787246.936077,
+    "geom:bbox":"8.64271831512,41.9089813232,8.82539463043,41.9602622986",
+    "geom:latitude":41.931414,
+    "geom:longitude":8.741586,
     "iso:country":"FR",
-    "src:geom":"geoplanet",
+    "mz:hierarchy_label":1,
+    "mz:is_approximate":1,
+    "mz:is_clustr":1,
+    "src:geom":"oa",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"20068112"
     },
     "wof:country":"FR",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"8d5aa013b1c4066b29494f9cd73b8a46",
     "wof:hierarchy":[],
     "wof:id":421298731,
-    "wof:lastmodified":1459813348,
+    "wof:lastmodified":1469485460,
     "wof:name":"20090",
-    "wof:parent_id":"101748927",
+    "wof:parent_id":101748927,
     "wof:placetype":"postalcode",
+    "wof:repo":"whosonfirst-data-postalcode-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    8.642718315124512,
+    41.90898132324219,
+    8.825394630432129,
+    41.960262298583984
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[[[8.76525783538818,41.95682907104492],[8.76535606384277,41.95681762695312],[8.77712154388428,41.95402908325195],[8.81343746185303,41.94343185424805],[8.82539463043213,41.92327117919922],[8.80172824859619,41.91686630249023],[8.70836067199707,41.90898132324219],[8.64271831512451,41.91122055053711],[8.72653484344482,41.96006774902344],[8.72762680053711,41.96023178100586],[8.72806930541992,41.96026229858398],[8.76525783538818,41.95682907104492]]],"type":"Polygon"}
 }

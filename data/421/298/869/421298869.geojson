@@ -2,37 +2,43 @@
   "id": 421298869,
   "type": "Feature",
   "properties": {
+    "clustr:alpha":1.0,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:area":0.012404,
+    "geom:area_square_m":112606958.639106,
+    "geom:bbox":"9.26686954498,42.6659355164,9.37583446503,42.8652229309",
+    "geom:latitude":42.761576,
+    "geom:longitude":9.325052,
     "gp:parent_id":"12597140",
     "iso:country":"FR",
-    "src:geom":"geoplanet",
+    "mz:hierarchy_label":1,
+    "mz:is_approximate":1,
+    "mz:is_clustr":1,
+    "src:geom":"oa",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12723586"
     },
     "wof:country":"FR",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"3bcfad0cbe750c0876620093c7262d20",
     "wof:hierarchy":[],
     "wof:id":421298869,
-    "wof:lastmodified":1459813352,
+    "wof:lastmodified":1469485460,
     "wof:name":"20217",
     "wof:parent_id":-1,
     "wof:placetype":"postalcode",
+    "wof:repo":"whosonfirst-data-postalcode-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    9.26686954498291,
+    42.66593551635742,
+    9.375834465026855,
+    42.8652229309082
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[[[9.31905841827393,42.84404754638672],[9.3239860534668,42.84790420532227],[9.34687328338623,42.8652229309082],[9.35898303985596,42.85842895507812],[9.37583446502686,42.80876922607422],[9.3736629486084,42.76838302612305],[9.37354183197021,42.76809310913086],[9.32011985778809,42.67240524291992],[9.28502464294434,42.66593551635742],[9.28475189208984,42.666015625],[9.27820205688477,42.67570495605469],[9.26700496673584,42.69398880004883],[9.26686954498291,42.69539260864258],[9.26803302764893,42.69972610473633],[9.31426048278809,42.83264923095703],[9.31905841827393,42.84404754638672]]],"type":"Polygon"}
 }

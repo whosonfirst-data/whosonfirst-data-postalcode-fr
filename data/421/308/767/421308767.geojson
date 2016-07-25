@@ -2,37 +2,43 @@
   "id": 421308767,
   "type": "Feature",
   "properties": {
+    "clustr:alpha":1.0,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:area":0.002611,
+    "geom:area_square_m":22297901.502119,
+    "geom:bbox":"-1.355001688,46.270111084,-1.20498025417,46.3480033875",
+    "geom:latitude":46.314399,
+    "geom:longitude":-1.287854,
     "gp:parent_id":"12597200",
     "iso:country":"FR",
-    "src:geom":"geoplanet",
+    "mz:hierarchy_label":1,
+    "mz:is_approximate":1,
+    "mz:is_clustr":1,
+    "src:geom":"oa",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12727940"
     },
     "wof:country":"FR",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"289e94196f84131c5b176b7c088d4015",
     "wof:hierarchy":[],
     "wof:id":421308767,
-    "wof:lastmodified":1459813690,
+    "wof:lastmodified":1469485495,
     "wof:name":"85460",
     "wof:parent_id":-1,
     "wof:placetype":"postalcode",
+    "wof:repo":"whosonfirst-data-postalcode-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -1.35500168800354,
+    46.270111083984375,
+    -1.204980254173279,
+    46.34800338745117
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[[[-1.31478524208069,46.3430061340332],[-1.29035615921021,46.33130264282227],[-1.27896153926849,46.32306289672852],[-1.20498025417328,46.27011108398438],[-1.22039949893951,46.27531814575195],[-1.22868263721466,46.27811813354492],[-1.30430436134338,46.30684280395508],[-1.35500168800354,46.34759521484375],[-1.354865193367,46.34774780273438],[-1.35393488407135,46.34800338745117],[-1.33678412437439,46.34638595581055],[-1.31478524208069,46.3430061340332]]],"type":"Polygon"}
 }

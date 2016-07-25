@@ -2,37 +2,43 @@
   "id": 421298737,
   "type": "Feature",
   "properties": {
+    "clustr:alpha":1.0,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:area":0.004524,
+    "geom:area_square_m":41535321.180318,
+    "geom:bbox":"8.67109584808,42.0178451538,8.79152584076,42.0821075439",
+    "geom:latitude":42.048386,
+    "geom:longitude":8.738132,
     "gp:parent_id":"12597134",
     "iso:country":"FR",
-    "src:geom":"geoplanet",
+    "mz:hierarchy_label":1,
+    "mz:is_approximate":1,
+    "mz:is_clustr":1,
+    "src:geom":"oa",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12723526"
     },
     "wof:country":"FR",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"c37638bcc5f72a62bb279ef8abc93ee3",
     "wof:hierarchy":[],
     "wof:id":421298737,
-    "wof:lastmodified":1459813348,
+    "wof:lastmodified":1469485460,
     "wof:name":"20111",
     "wof:parent_id":-1,
     "wof:placetype":"postalcode",
+    "wof:repo":"whosonfirst-data-postalcode-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    8.671095848083496,
+    42.017845153808594,
+    8.791525840759277,
+    42.08210754394531
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[[[8.76832103729248,42.02618789672852],[8.76554298400879,42.02561950683594],[8.69485473632812,42.02009582519531],[8.6710958480835,42.01784515380859],[8.72344398498535,42.07557678222656],[8.74428272247314,42.08081436157227],[8.7508602142334,42.08210754394531],[8.79152584075928,42.06974792480469],[8.79137229919434,42.06523513793945],[8.77238273620605,42.03068923950195],[8.76978588104248,42.02751159667969],[8.76832103729248,42.02618789672852]]],"type":"Polygon"}
 }

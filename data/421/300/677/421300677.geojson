@@ -2,14 +2,19 @@
   "id": 421300677,
   "type": "Feature",
   "properties": {
+    "clustr:alpha":1.0,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:area":0.000752,
+    "geom:area_square_m":6590665.235915,
+    "geom:bbox":"-0.564400076866,44.8260612488,-0.536789417267,44.8683433533",
+    "geom:latitude":44.844528,
+    "geom:longitude":-0.547775,
     "iso:country":"FR",
-    "src:geom":"geoplanet",
+    "mz:hierarchy_label":1,
+    "mz:is_approximate":1,
+    "mz:is_clustr":1,
+    "src:geom":"oa",
     "wof:belongsto":[
         85683243,
         102191581,
@@ -24,7 +29,7 @@
         "gp:id":"20068115"
     },
     "wof:country":"FR",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"7039281975e7085c7a297cfb0c116c66",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -38,19 +43,20 @@
         }
     ],
     "wof:id":421300677,
-    "wof:lastmodified":1459813413,
+    "wof:lastmodified":1469485467,
     "wof:name":"33100",
-    "wof:parent_id":"101748979",
+    "wof:parent_id":101748979,
     "wof:placetype":"postalcode",
+    "wof:repo":"whosonfirst-data-postalcode-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -0.56440007686615,
+    44.8260612487793,
+    -0.536789417266846,
+    44.868343353271484
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[[[-0.53734397888184,44.86746215820312],[-0.53678941726685,44.8285026550293],[-0.53928107023239,44.82790756225586],[-0.55205291509628,44.8260612487793],[-0.56382137537003,44.84304046630859],[-0.56396049261093,44.84323883056641],[-0.56440007686615,44.84451675415039],[-0.56433248519898,44.84724044799805],[-0.56317472457886,44.84860229492188],[-0.5376580953598,44.86834335327148],[-0.53740519285202,44.86775207519531],[-0.53734397888184,44.86746215820312]]],"type":"Polygon"}
 }

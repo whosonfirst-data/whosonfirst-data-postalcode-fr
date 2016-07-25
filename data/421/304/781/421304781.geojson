@@ -2,37 +2,62 @@
   "id": 421304781,
   "type": "Feature",
   "properties": {
+    "clustr:alpha":1.0,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:area":0.001007,
+    "geom:area_square_m":8100940.974308,
+    "geom:bbox":"1.98252940178,49.3883018494,2.0316324234,49.4195785522",
+    "geom:latitude":49.403111,
+    "geom:longitude":2.005785,
     "gp:parent_id":"12597158",
     "iso:country":"FR",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:hierarchy_label":1,
+    "mz:is_approximate":1,
+    "mz:is_clustr":1,
+    "src:geom":"oa",
+    "wof:belongsto":[
+        85683289,
+        102191581,
+        85633147,
+        404401071,
+        404227717,
+        404227427,
+        102064505
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12726204"
     },
     "wof:country":"FR",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7b7dffe2f588810c0971b729a2b5a734",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102064505,
+            "localadmin_id":404401071,
+            "macrocounty_id":404227717,
+            "macroregion_id":404227427,
+            "postalcode_id":421304781,
+            "region_id":85683289
+        }
+    ],
     "wof:id":421304781,
-    "wof:lastmodified":1459813543,
+    "wof:lastmodified":1469485481,
     "wof:name":"60155",
-    "wof:parent_id":-1,
+    "wof:parent_id":404401071,
     "wof:placetype":"postalcode",
+    "wof:repo":"whosonfirst-data-postalcode-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    1.982529401779175,
+    49.388301849365234,
+    2.031632423400879,
+    49.419578552246094
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[[[2.02876591682434,49.38845443725586],[2.02324962615967,49.38830184936523],[2.0111837387085,49.3893928527832],[1.98252940177918,49.3976936340332],[1.988112449646,49.41918563842773],[1.98844921588898,49.41957855224609],[1.98911929130554,49.4195556640625],[1.98965609073639,49.41951370239258],[1.99057543277741,49.41943359375],[2.00552201271057,49.41725540161133],[2.00579762458801,49.41717529296875],[2.01842784881592,49.41314697265625],[2.03163242340088,49.39104843139648],[2.03076696395874,49.39005661010742],[2.02942252159119,49.38882827758789],[2.02876591682434,49.38845443725586]]],"type":"Polygon"}
 }

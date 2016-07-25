@@ -2,14 +2,19 @@
   "id": 421296955,
   "type": "Feature",
   "properties": {
+    "clustr:alpha":1.0,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:area":0.008348,
+    "geom:area_square_m":74605937.147238,
+    "geom:bbox":"7.19506931305,43.6624412537,7.31114339828,43.7536621094",
+    "geom:latitude":43.715008,
+    "geom:longitude":7.248013,
     "iso:country":"FR",
-    "src:geom":"geoplanet",
+    "mz:hierarchy_label":1,
+    "mz:is_approximate":1,
+    "mz:is_clustr":1,
+    "src:geom":"oa",
     "wof:belongsto":[
         85683323,
         102191581,
@@ -24,7 +29,7 @@
         "gp:id":"12722752"
     },
     "wof:country":"FR",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"4d3b2c867186d250967764a68feeb76c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -38,19 +43,20 @@
         }
     ],
     "wof:id":421296955,
-    "wof:lastmodified":1459813289,
+    "wof:lastmodified":1469485453,
     "wof:name":"06000",
-    "wof:parent_id":"101749273",
+    "wof:parent_id":101749273,
     "wof:placetype":"postalcode",
+    "wof:repo":"whosonfirst-data-postalcode-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    7.195069313049316,
+    43.66244125366211,
+    7.311143398284912,
+    43.753662109375
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[[[7.29772996902466,43.753662109375],[7.30124282836914,43.75352096557617],[7.30322408676147,43.75325012207031],[7.30349111557007,43.75301742553711],[7.31114339828491,43.71888732910156],[7.2958836555481,43.69020462036133],[7.21069622039795,43.66244125366211],[7.20124626159668,43.66549682617188],[7.19666957855225,43.71695709228516],[7.19506931304932,43.75333404541016],[7.29772996902466,43.753662109375]]],"type":"Polygon"}
 }

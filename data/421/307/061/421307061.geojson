@@ -2,14 +2,19 @@
   "id": 421307061,
   "type": "Feature",
   "properties": {
+    "clustr:alpha":1.0,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:area":0.014175,
+    "geom:area_square_m":121942878.934594,
+    "geom:bbox":"6.64672803879,45.8380966187,6.80121564865,46.0044746399",
+    "geom:latitude":45.920961,
+    "geom:longitude":6.720503,
     "iso:country":"FR",
-    "src:geom":"geoplanet",
+    "mz:hierarchy_label":1,
+    "mz:is_approximate":1,
+    "mz:is_clustr":1,
+    "src:geom":"oa",
     "wof:belongsto":[
         85683227,
         102191581,
@@ -25,7 +30,7 @@
         "gp:id":"12727206"
     },
     "wof:country":"FR",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"061710129b5bd50a3d23d45f0824ccf4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -40,19 +45,20 @@
         }
     ],
     "wof:id":421307061,
-    "wof:lastmodified":1459813630,
+    "wof:lastmodified":1469485489,
     "wof:name":"74190",
-    "wof:parent_id":"101828995",
+    "wof:parent_id":101828995,
     "wof:placetype":"postalcode",
+    "wof:repo":"whosonfirst-data-postalcode-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    6.646728038787842,
+    45.838096618652344,
+    6.801215648651123,
+    46.00447463989258
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[[[6.68125820159912,45.83821868896484],[6.68100118637085,45.8383903503418],[6.64672803878784,45.92623519897461],[6.65944623947144,45.94924163818359],[6.79165410995483,46.00447463989258],[6.80121564865112,45.97536849975586],[6.72615671157837,45.84299468994141],[6.71993827819824,45.83934020996094],[6.71924114227295,45.8390998840332],[6.68188047409058,45.83809661865234],[6.68174266815185,45.83810043334961],[6.68125820159912,45.83821868896484]]],"type":"Polygon"}
 }

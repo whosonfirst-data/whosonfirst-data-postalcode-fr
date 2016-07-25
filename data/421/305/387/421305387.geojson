@@ -2,14 +2,19 @@
   "id": 421305387,
   "type": "Feature",
   "properties": {
+    "clustr:alpha":1.0,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:area":0.002933,
+    "geom:area_square_m":25292352.254127,
+    "geom:bbox":"3.06613206863,45.7561035156,3.15940856934,45.7971878052",
+    "geom:latitude":45.774571,
+    "geom:longitude":3.108491,
     "iso:country":"FR",
-    "src:geom":"geoplanet",
+    "mz:hierarchy_label":1,
+    "mz:is_approximate":1,
+    "mz:is_clustr":1,
+    "src:geom":"oa",
     "wof:belongsto":[
         85683471,
         102191581,
@@ -25,7 +30,7 @@
         "gp:id":"12726473"
     },
     "wof:country":"FR",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"7c2ac26a81e31a916473a7d08a1515b1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -40,19 +45,20 @@
         }
     ],
     "wof:id":421305387,
-    "wof:lastmodified":1459813572,
+    "wof:lastmodified":1469485483,
     "wof:name":"63000",
-    "wof:parent_id":"101749467",
+    "wof:parent_id":101749467,
     "wof:placetype":"postalcode",
+    "wof:repo":"whosonfirst-data-postalcode-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    3.066132068634033,
+    45.756103515625,
+    3.159408569335938,
+    45.79718780517578
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[[[3.07755088806152,45.756103515625],[3.07733631134033,45.75629043579102],[3.07101678848267,45.76469802856445],[3.06613206863403,45.79413604736328],[3.07696509361267,45.79718780517578],[3.12859106063843,45.79117202758789],[3.15731835365295,45.77184677124023],[3.15940856933594,45.76354217529297],[3.15940833091736,45.76345825195312],[3.14983344078064,45.75679016113281],[3.0956244468689,45.75657272338867],[3.07755088806152,45.756103515625]]],"type":"Polygon"}
 }

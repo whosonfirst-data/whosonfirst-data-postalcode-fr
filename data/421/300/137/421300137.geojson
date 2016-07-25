@@ -2,37 +2,43 @@
   "id": 421300137,
   "type": "Feature",
   "properties": {
+    "clustr:alpha":1.0,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:area":0.003746,
+    "geom:area_square_m":30814106.930106,
+    "geom:bbox":"-4.61756515503,48.2578773499,-4.53658676147,48.3366775513",
+    "geom:latitude":48.29216,
+    "geom:longitude":-4.573408,
     "gp:parent_id":"12591797",
     "iso:country":"FR",
-    "src:geom":"geoplanet",
+    "mz:hierarchy_label":1,
+    "mz:is_approximate":1,
+    "mz:is_clustr":1,
+    "src:geom":"oa",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12724150"
     },
     "wof:country":"FR",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"a3795ad825093d72a164257a81a4412e",
     "wof:hierarchy":[],
     "wof:id":421300137,
-    "wof:lastmodified":1459813397,
+    "wof:lastmodified":1469485465,
     "wof:name":"29570",
     "wof:parent_id":-1,
     "wof:placetype":"postalcode",
+    "wof:repo":"whosonfirst-data-postalcode-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -4.617565155029297,
+    48.257877349853516,
+    -4.536586761474609,
+    48.33667755126953
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[[[-4.57113742828369,48.32478332519531],[-4.55360984802246,48.33648681640625],[-4.53737258911133,48.33667755126953],[-4.53658676147461,48.33641815185547],[-4.55221652984619,48.26816558837891],[-4.56124401092529,48.25867462158203],[-4.56368732452393,48.25787734985352],[-4.57840633392334,48.25924682617188],[-4.61413049697876,48.26219177246094],[-4.61486864089966,48.26250076293945],[-4.61559438705444,48.26391220092773],[-4.6175651550293,48.27803421020508],[-4.5716495513916,48.32423400878906],[-4.57113742828369,48.32478332519531]]],"type":"Polygon"}
 }
