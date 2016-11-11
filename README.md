@@ -19,5 +19,3 @@ Until then all geometries are [at least more accurate](https://whosonfirst.mapze
 ## See also
 
 * https://github.com/whosonfirst-data/whosonfirst-data-postalcode
-* https://openaddresses.io/
-* https://github.com/whosonfirst/Clustr
