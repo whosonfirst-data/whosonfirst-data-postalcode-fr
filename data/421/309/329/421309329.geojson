@@ -4,26 +4,32 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "frgov:DEP":"90",
+    "frgov:ID":"90330",
+    "frgov:LIB":"Chaux",
+    "frgov:POP2010":1080.0,
+    "frgov:SURF":9.522432,
+    "frgov:_COL6":407.424,
+    "geom:area":0.001145,
+    "geom:bbox":"6.80427872932,47.6972803802,6.87220748174,47.7308299244",
+    "geom:latitude":47.712538,
+    "geom:longitude":6.838331,
     "gp:parent_id":"12641433",
     "iso:country":"FR",
     "mz:hierarchy_label":1,
-    "src:geom":"geoplanet",
+    "src:geom":"frgov",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12728189"
     },
     "wof:country":"FR",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"cb81dab5b3be00c545884960c5acdcec",
     "wof:hierarchy":[],
     "wof:id":421309329,
-    "wof:lastmodified":1474569866,
+    "wof:lastmodified":1478902009,
     "wof:name":"90330",
-    "wof:parent_id":-1,
+    "wof:parent_id":85633147,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-fr",
     "wof:superseded_by":[],
@@ -31,10 +37,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    6.804278729320689,
+    47.69728038018482,
+    6.872207481742147,
+    47.73082992441388
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[[[[6.80427872932069,47.72208568757295],[6.81300550624532,47.72738892931327],[6.83452872922233,47.73082992441388],[6.84246458554078,47.7199454810808],[6.86012193805961,47.71465965849087],[6.87220748174215,47.69924721724234],[6.86143829807868,47.69965772081196],[6.85264270748895,47.69728038018482],[6.82909355498355,47.698162700647],[6.82726807362872,47.70787327540987],[6.81610632023808,47.71382464912102],[6.81282237874763,47.7199875284638],[6.80427872932069,47.72208568757295]]]],"type":"MultiPolygon"}
 }

@@ -4,26 +4,32 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "frgov:DEP":"78",
+    "frgov:ID":"78890",
+    "frgov:LIB":"Garancires",
+    "frgov:POP2010":2382.0,
+    "frgov:SURF":10.126054,
+    "frgov:_COL6":918.985,
+    "geom:area":0.001244,
+    "geom:bbox":"1.73322187067,48.8032433601,1.78521120824,48.8410363489",
+    "geom:latitude":48.823604,
+    "geom:longitude":1.758318,
     "gp:parent_id":"12638198",
     "iso:country":"FR",
     "mz:hierarchy_label":1,
-    "src:geom":"geoplanet",
+    "src:geom":"frgov",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12727556"
     },
     "wof:country":"FR",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"08117e4ba85a1e027a787c23a3806745",
     "wof:hierarchy":[],
     "wof:id":421307899,
-    "wof:lastmodified":1474569866,
+    "wof:lastmodified":1478902014,
     "wof:name":"78890",
-    "wof:parent_id":-1,
+    "wof:parent_id":85633147,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-fr",
     "wof:superseded_by":[],
@@ -31,10 +37,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    1.733221870670165,
+    48.803243360112255,
+    1.785211208236708,
+    48.84103634891663
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[[[[1.73322187067016,48.82087540288549],[1.74003135552646,48.83782081248957],[1.76111610063252,48.84103634891663],[1.77343356669955,48.83177347930423],[1.77804002021522,48.83230633638297],[1.78521120823671,48.83031893703082],[1.78467321137793,48.81838658388794],[1.7812051559663,48.81639994915445],[1.74834261947336,48.80324336011225],[1.74592146661551,48.80993624670414],[1.73322187067016,48.82087540288549]]]],"type":"MultiPolygon"}
 }

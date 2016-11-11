@@ -4,26 +4,32 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "frgov:DEP":"52",
+    "frgov:ID":"52410",
+    "frgov:LIB":"Eurville-Bienville",
+    "frgov:POP2010":3457.0,
+    "frgov:SURF":36.139458,
+    "frgov:_COL6":1483.105,
+    "geom:area":0.004419,
+    "geom:bbox":"4.96610683384,48.5557595706,5.08107290009,48.6329135409",
+    "geom:latitude":48.58936,
+    "geom:longitude":5.030313,
     "gp:parent_id":"12597145",
     "iso:country":"FR",
     "mz:hierarchy_label":1,
-    "src:geom":"geoplanet",
+    "src:geom":"frgov",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12725515"
     },
     "wof:country":"FR",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"de6c39825e4fe460929606205976c935",
     "wof:hierarchy":[],
     "wof:id":421303231,
-    "wof:lastmodified":1474569864,
+    "wof:lastmodified":1478901997,
     "wof:name":"52410",
-    "wof:parent_id":-1,
+    "wof:parent_id":85633147,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-fr",
     "wof:superseded_by":[],
@@ -31,10 +37,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    4.96610683384417,
+    48.55575957061977,
+    5.08107290009317,
+    48.632913540866845
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[[[[5.06988325832677,48.59363714119402],[5.08107290009317,48.56389995913158],[5.0675359645514,48.5599521201409],[5.03642036249926,48.57171861508064],[5.02592448130234,48.56502270086404],[5.02986349331202,48.55575957061977],[4.96610683384417,48.58301495595422],[4.97142455089329,48.58881172714016],[4.97704772140711,48.5944325759633],[4.99936341772933,48.60262640668739],[5.00640149687237,48.61138905378753],[5.03291925922902,48.61355682696134],[5.05173992028943,48.63291354086684],[5.05665835726047,48.63233350620866],[5.05939072055166,48.6151897641183],[5.07028581160175,48.59592430694481],[5.06988325832677,48.59363714119402]]]],"type":"MultiPolygon"}
 }

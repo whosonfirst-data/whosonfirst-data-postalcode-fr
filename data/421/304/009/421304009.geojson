@@ -4,26 +4,32 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "frgov:DEP":"57",
+    "frgov:ID":"57780",
+    "frgov:LIB":"Rosselange",
+    "frgov:POP2010":2897.0,
+    "frgov:SURF":5.235288,
+    "frgov:_COL6":1141.81,
+    "geom:area":0.000649,
+    "geom:bbox":"6.0448560333,49.2502159188,6.08314482018,49.2841546131",
+    "geom:latitude":49.266709,
+    "geom:longitude":6.061052,
     "gp:parent_id":"12669155",
     "iso:country":"FR",
     "mz:hierarchy_label":1,
-    "src:geom":"geoplanet",
+    "src:geom":"frgov",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12725860"
     },
     "wof:country":"FR",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"d8705d17bee6f2a1cc1239b2141cae43",
     "wof:hierarchy":[],
     "wof:id":421304009,
-    "wof:lastmodified":1474569864,
+    "wof:lastmodified":1478901996,
     "wof:name":"57780",
-    "wof:parent_id":-1,
+    "wof:parent_id":85633147,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-fr",
     "wof:superseded_by":[],
@@ -31,10 +37,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    6.044856033304638,
+    49.25021591876296,
+    6.083144820181562,
+    49.28415461310583
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[[[[6.04496062591249,49.27963201784556],[6.05147180751138,49.28415461310583],[6.06411911527466,49.28062184924392],[6.06580708276545,49.27197000711428],[6.08314482018156,49.25588286728275],[6.06085960023203,49.25021591876296],[6.04485603330464,49.27340916715318],[6.04496062591249,49.27963201784556]]]],"type":"MultiPolygon"}
 }

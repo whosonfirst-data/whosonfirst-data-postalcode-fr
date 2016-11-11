@@ -4,26 +4,32 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "frgov:DEP":"38",
+    "frgov:ID":"38750",
+    "frgov:LIB":"L'Alpe d'Huez",
+    "frgov:POP2010":1368.0,
+    "frgov:SURF":19.940897,
+    "frgov:_COL6":627.382,
+    "geom:area":0.002285,
+    "geom:bbox":"6.04159191979,45.0721550587,6.12083391674,45.1227317914",
+    "geom:latitude":45.096943,
+    "geom:longitude":6.084748,
     "gp:parent_id":"12662874",
     "iso:country":"FR",
     "mz:hierarchy_label":1,
-    "src:geom":"geoplanet",
+    "src:geom":"frgov",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12724795"
     },
     "wof:country":"FR",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"6dcf66e60df54279bb51468c6a74c5a1",
     "wof:hierarchy":[],
     "wof:id":421301599,
-    "wof:lastmodified":1474569862,
+    "wof:lastmodified":1478901993,
     "wof:name":"38750",
-    "wof:parent_id":-1,
+    "wof:parent_id":85633147,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-fr",
     "wof:superseded_by":[],
@@ -31,10 +37,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    6.041591919791087,
+    45.0721550587364,
+    6.120833916743984,
+    45.12273179140074
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[[[[6.04159191979109,45.0800355033733],[6.05607169375739,45.10177865292993],[6.06724708568992,45.10905041731754],[6.08015587419155,45.11054086991946],[6.08403981715798,45.11705646765205],[6.09680150669208,45.12273179140074],[6.12083391674398,45.11774492761909],[6.11351741184659,45.10520831861746],[6.1155015040462,45.08512104159575],[6.10458455147214,45.07886618212358],[6.08215785051035,45.0810746908008],[6.06355886672955,45.0802995172801],[6.05594067644322,45.0721550587364],[6.04159191979109,45.0800355033733]]]],"type":"MultiPolygon"}
 }

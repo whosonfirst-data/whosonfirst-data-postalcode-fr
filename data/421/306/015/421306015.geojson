@@ -4,26 +4,32 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "frgov:DEP":"67",
+    "frgov:ID":"67203",
+    "frgov:LIB":"Oberschaeffolsheim",
+    "frgov:POP2010":2139.0,
+    "frgov:SURF":7.430344,
+    "frgov:_COL6":844.083,
+    "geom:area":0.000909,
+    "geom:bbox":"7.62941782763,48.5669096933,7.66702098545,48.61244872",
+    "geom:latitude":48.591917,
+    "geom:longitude":7.646089,
     "gp:parent_id":"12650124",
     "iso:country":"FR",
     "mz:hierarchy_label":1,
-    "src:geom":"geoplanet",
+    "src:geom":"frgov",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12726750"
     },
     "wof:country":"FR",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"34e4fa8f653595a4a0be9c8737a8ce07",
     "wof:hierarchy":[],
     "wof:id":421306015,
-    "wof:lastmodified":1474569865,
+    "wof:lastmodified":1478902002,
     "wof:name":"67203",
-    "wof:parent_id":-1,
+    "wof:parent_id":85633147,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-fr",
     "wof:superseded_by":[],
@@ -31,10 +37,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    7.62941782762658,
+    48.56690969325351,
+    7.667020985454704,
+    48.612448719991036
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[[[[7.62941782762658,48.59828538435057],[7.63375098025414,48.60288290824193],[7.63299360158326,48.60752528930561],[7.64296052722094,48.61220134242581],[7.64861100980815,48.6120256493794],[7.65429487487866,48.61036998502234],[7.6670209854547,48.61244871999104],[7.66684379724329,48.60892346501138],[7.65297233937821,48.60467303514258],[7.65134248259788,48.60147533357389],[7.65982118596697,48.57876005006334],[7.65180163109268,48.56690969325351],[7.6490686997692,48.56779168170358],[7.64114981884446,48.5720384208548],[7.62941782762658,48.59828538435057]]]],"type":"MultiPolygon"}
 }

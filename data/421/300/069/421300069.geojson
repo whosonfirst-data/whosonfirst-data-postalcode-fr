@@ -4,26 +4,32 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "frgov:DEP":"29",
+    "frgov:ID":"29259",
+    "frgov:LIB":"le-Molne",
+    "frgov:POP2010":0.0,
+    "frgov:SURF":0.689743,
+    "frgov:_COL6":0.0,
+    "geom:area":0.000084,
+    "geom:bbox":"-4.96550077801,48.3894130862,-4.95359610597,48.4014291788",
+    "geom:latitude":48.395404,
+    "geom:longitude":-4.960406,
     "gp:parent_id":"20074703",
     "iso:country":"FR",
     "mz:hierarchy_label":1,
-    "src:geom":"geoplanet",
+    "src:geom":"frgov",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12724120"
     },
     "wof:country":"FR",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"f16eed4be1b4d86ac1671ab3d9a9a3d7",
     "wof:hierarchy":[],
     "wof:id":421300069,
-    "wof:lastmodified":1474569861,
+    "wof:lastmodified":1478901990,
     "wof:name":"29259",
-    "wof:parent_id":-1,
+    "wof:parent_id":85633147,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-fr",
     "wof:superseded_by":[],
@@ -31,10 +37,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -4.965500778011444,
+    48.38941308620802,
+    -4.953596105970477,
+    48.40142917883229
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[[[[-4.95919543874768,48.38941308620802],[-4.9648037469183,48.392633268079],[-4.96550077801144,48.39927776715943],[-4.96149638423114,48.40142917883229],[-4.95359610597048,48.3949168275733],[-4.95919543874768,48.38941308620802]]]],"type":"MultiPolygon"}
 }

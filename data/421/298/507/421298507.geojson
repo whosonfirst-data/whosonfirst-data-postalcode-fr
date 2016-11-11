@@ -4,26 +4,32 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "frgov:DEP":"17",
+    "frgov:ID":"17650",
+    "frgov:LIB":"Saint-Denis-d'Olron",
+    "frgov:POP2010":1358.0,
+    "frgov:SURF":11.940125,
+    "frgov:_COL6":666.852,
+    "geom:area":0.001391,
+    "geom:bbox":"-1.41081271277,45.9971638831,-1.3568302628,46.0464955537",
+    "geom:latitude":46.023475,
+    "geom:longitude":-1.38578,
     "gp:parent_id":"12670332",
     "iso:country":"FR",
     "mz:hierarchy_label":1,
-    "src:geom":"geoplanet",
+    "src:geom":"frgov",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12723424"
     },
     "wof:country":"FR",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"a4c71f3e411a189aaefd82f3ce0e2c0f",
     "wof:hierarchy":[],
     "wof:id":421298507,
-    "wof:lastmodified":1474569861,
+    "wof:lastmodified":1478902010,
     "wof:name":"17650",
-    "wof:parent_id":-1,
+    "wof:parent_id":85633147,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-fr",
     "wof:superseded_by":[],
@@ -31,10 +37,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -1.410812712770592,
+    45.99716388311606,
+    -1.356830262804946,
+    46.046495553665004
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[[[[-1.35683026280495,46.0236485946541],[-1.36421921837637,46.0192156861254],[-1.37390384219811,46.01891368380795],[-1.36734065467623,46.0032673561902],[-1.38709388375335,45.99716388311606],[-1.40170481238835,46.01932415368213],[-1.41081271277059,46.046495553665],[-1.37271147322927,46.0393874583524],[-1.3693006806054,46.02955335172238],[-1.35683026280495,46.0236485946541]]]],"type":"MultiPolygon"}
 }

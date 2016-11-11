@@ -4,26 +4,32 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "frgov:DEP":"54",
+    "frgov:ID":"54340",
+    "frgov:LIB":"Pompey",
+    "frgov:POP2010":4993.0,
+    "frgov:SURF":8.439524,
+    "frgov:_COL6":2048.81,
+    "geom:area":0.001036,
+    "geom:bbox":"6.07530960256,48.7611762894,6.14059314778,48.7872731495",
+    "geom:latitude":48.773208,
+    "geom:longitude":6.110821,
     "gp:parent_id":"12668354",
     "iso:country":"FR",
     "mz:hierarchy_label":1,
-    "src:geom":"geoplanet",
+    "src:geom":"frgov",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12725602"
     },
     "wof:country":"FR",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"bc9f10706ffb9583937cf3fe0ae37cf4",
     "wof:hierarchy":[],
     "wof:id":421303429,
-    "wof:lastmodified":1474569864,
+    "wof:lastmodified":1478901997,
     "wof:name":"54340",
-    "wof:parent_id":-1,
+    "wof:parent_id":85633147,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-fr",
     "wof:superseded_by":[],
@@ -31,10 +37,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    6.075309602557557,
+    48.761176289438275,
+    6.140593147782154,
+    48.78727314949732
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[[[[6.07530960255756,48.76998158778349],[6.08318796667636,48.77908591798736],[6.09876152797688,48.77852971095192],[6.12694720525639,48.78727314949732],[6.14059314778215,48.78294543601469],[6.13264263889238,48.76713279934847],[6.11466746406659,48.76117628943827],[6.09514427598662,48.76162994228598],[6.0847172885049,48.76834396094186],[6.07530960255756,48.76998158778349]]]],"type":"MultiPolygon"}
 }

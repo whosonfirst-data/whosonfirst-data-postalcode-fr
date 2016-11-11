@@ -4,26 +4,32 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "frgov:DEP":"95",
+    "frgov:ID":"95610",
+    "frgov:LIB":"Eragny-Sur-Oise",
+    "frgov:POP2010":16886.0,
+    "frgov:SURF":4.404006,
+    "frgov:_COL6":6156.57,
+    "geom:area":0.000543,
+    "geom:bbox":"2.08106883764,49.0090698669,2.12124356781,49.0360729781",
+    "geom:latitude":49.020459,
+    "geom:longitude":2.101367,
     "gp:parent_id":"12643385",
     "iso:country":"FR",
     "mz:hierarchy_label":1,
-    "src:geom":"geoplanet",
+    "src:geom":"frgov",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12728462"
     },
     "wof:country":"FR",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"ac882a1693d2270696043ac6a9cf121f",
     "wof:hierarchy":[],
     "wof:id":421309943,
-    "wof:lastmodified":1474569867,
+    "wof:lastmodified":1478902015,
     "wof:name":"95610",
-    "wof:parent_id":-1,
+    "wof:parent_id":85633147,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-fr",
     "wof:superseded_by":[],
@@ -31,10 +37,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    2.081068837637773,
+    49.00906986685986,
+    2.121243567807159,
+    49.03607297810079
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[[[[2.08106883763777,49.01648393791346],[2.0831664049012,49.01926907301714],[2.09065760033022,49.02396627792453],[2.09579305519713,49.03607297810079],[2.11602568930099,49.02303240322038],[2.12124356780716,49.01849267769622],[2.10791097436613,49.00906986685986],[2.08491505515371,49.0146788508217],[2.08106883763777,49.01648393791346]]]],"type":"MultiPolygon"}
 }

@@ -4,26 +4,32 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "frgov:DEP":"67",
+    "frgov:ID":"67790",
+    "frgov:LIB":"Steinbourg",
+    "frgov:POP2010":1979.0,
+    "frgov:SURF":13.041318,
+    "frgov:_COL6":810.985,
+    "geom:area":0.0016,
+    "geom:bbox":"7.38651506842,48.7410088409,7.43734158633,48.7892013948",
+    "geom:latitude":48.763965,
+    "geom:longitude":7.413512,
     "gp:parent_id":"12653442",
     "iso:country":"FR",
     "mz:hierarchy_label":1,
-    "src:geom":"geoplanet",
+    "src:geom":"frgov",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12726811"
     },
     "wof:country":"FR",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"c519b47908ae416f0693dbd98b4aed95",
     "wof:hierarchy":[],
     "wof:id":421306151,
-    "wof:lastmodified":1474569865,
+    "wof:lastmodified":1478902002,
     "wof:name":"67790",
-    "wof:parent_id":-1,
+    "wof:parent_id":85633147,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-fr",
     "wof:superseded_by":[],
@@ -31,10 +37,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    7.386515068418173,
+    48.74100884087684,
+    7.43734158633062,
+    48.78920139483428
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[[[[7.38651506841817,48.76824769908893],[7.39021590403113,48.77092217579809],[7.40537471343177,48.77113830472518],[7.39783593234715,48.78630530913913],[7.40050455832854,48.78917087160289],[7.41407199518908,48.78920139483428],[7.42737204750918,48.78497027047146],[7.4332342590391,48.77600690634806],[7.42157271926207,48.7654492463157],[7.4351591386901,48.76113482729039],[7.43734158633062,48.74466748414763],[7.40725603991361,48.74100884087684],[7.3900641192082,48.75714545659888],[7.38805854884777,48.76019143941735],[7.39160785409003,48.76253824470177],[7.38651506841817,48.76824769908893]]]],"type":"MultiPolygon"}
 }

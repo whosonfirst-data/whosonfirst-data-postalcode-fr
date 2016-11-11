@@ -4,26 +4,32 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "frgov:DEP":"91",
+    "frgov:ID":"91120",
+    "frgov:LIB":"Palaiseau",
+    "frgov:POP2010":30285.0,
+    "frgov:SURF":11.741819,
+    "frgov:_COL6":12185.25,
+    "geom:area":0.001439,
+    "geom:bbox":"2.19279481872,48.7008418011,2.26683601965,48.7288011501",
+    "geom:latitude":48.714676,
+    "geom:longitude":2.228815,
     "gp:parent_id":"12650373",
     "iso:country":"FR",
     "mz:hierarchy_label":1,
-    "src:geom":"geoplanet",
+    "src:geom":"frgov",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12728206"
     },
     "wof:country":"FR",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"631ad5669fe7028181b1d4e068f7a852",
     "wof:hierarchy":[],
     "wof:id":421309367,
-    "wof:lastmodified":1474569866,
+    "wof:lastmodified":1478901992,
     "wof:name":"91120",
-    "wof:parent_id":-1,
+    "wof:parent_id":85633147,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-fr",
     "wof:superseded_by":[],
@@ -31,10 +37,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    2.192794818724114,
+    48.70084180107768,
+    2.266836019646009,
+    48.72880115009019
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[[[[2.19279481872411,48.71198072474336],[2.19347936849614,48.71869556021293],[2.20346252184286,48.72104764165241],[2.21290268711713,48.72880115009019],[2.22079345477649,48.72566881244489],[2.23544953692441,48.72756181299098],[2.25056028999048,48.7262094266845],[2.26683601964601,48.71827887323318],[2.25934987520379,48.70649423357311],[2.24500237949462,48.70721356062414],[2.23453587270808,48.70084180107768],[2.20971071866835,48.7015882191232],[2.19279481872411,48.71198072474336]]]],"type":"MultiPolygon"}
 }

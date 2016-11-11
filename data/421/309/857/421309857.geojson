@@ -4,26 +4,32 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "frgov:DEP":"95",
+    "frgov:ID":"95230",
+    "frgov:LIB":"Soisy-sous-Montmorency",
+    "frgov:POP2010":17428.0,
+    "frgov:SURF":3.9124,
+    "frgov:_COL6":7282.1,
+    "geom:area":0.000482,
+    "geom:bbox":"2.28537998874,48.9750811231,2.31526295548,49.002015492",
+    "geom:latitude":48.988408,
+    "geom:longitude":2.3005,
     "gp:parent_id":"12651998",
     "iso:country":"FR",
     "mz:hierarchy_label":1,
-    "src:geom":"geoplanet",
+    "src:geom":"frgov",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12728424"
     },
     "wof:country":"FR",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"2c39c23dc98a0c4d1388a1c1024955f7",
     "wof:hierarchy":[],
     "wof:id":421309857,
-    "wof:lastmodified":1474569867,
+    "wof:lastmodified":1478902008,
     "wof:name":"95230",
-    "wof:parent_id":-1,
+    "wof:parent_id":85633147,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-fr",
     "wof:superseded_by":[],
@@ -31,10 +37,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    2.28537998874079,
+    48.97508112313606,
+    2.315262955482642,
+    49.00201549195724
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[[[[2.28537998874079,48.98440443737327],[2.29286260742375,48.99584254035133],[2.31062742488886,49.00201549195724],[2.31526295548264,49.00081875616386],[2.30701728900319,48.97759840512263],[2.30337873937116,48.97891704014952],[2.29785668359645,48.97508112313606],[2.29185800078081,48.97624164735539],[2.28537998874079,48.98440443737327]]]],"type":"MultiPolygon"}
 }

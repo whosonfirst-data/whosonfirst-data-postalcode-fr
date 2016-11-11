@@ -4,26 +4,32 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "frgov:DEP":"59",
+    "frgov:ID":"59930",
+    "frgov:LIB":"La Chapelle d'Armentieres",
+    "frgov:POP2010":8259.0,
+    "frgov:SURF":10.56463,
+    "frgov:_COL6":3019.7,
+    "geom:area":0.001348,
+    "geom:bbox":"2.86078200897,50.6472592819,2.92922883744,50.6814234808",
+    "geom:latitude":50.665953,
+    "geom:longitude":2.895588,
     "gp:parent_id":"12597175",
     "iso:country":"FR",
     "mz:hierarchy_label":1,
-    "src:geom":"geoplanet",
+    "src:geom":"frgov",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12726176"
     },
     "wof:country":"FR",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"95662665113132f3364565aec8134cdf",
     "wof:hierarchy":[],
     "wof:id":421304719,
-    "wof:lastmodified":1474569865,
+    "wof:lastmodified":1478901999,
     "wof:name":"59930",
-    "wof:parent_id":-1,
+    "wof:parent_id":85633147,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-fr",
     "wof:superseded_by":[],
@@ -31,10 +37,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    2.860782008974733,
+    50.647259281903,
+    2.929228837438655,
+    50.68142348082047
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[[[[2.86078200897473,50.6703841602617],[2.87142913718247,50.68142348082047],[2.89274859014245,50.67867125044896],[2.89730534782799,50.68058608612549],[2.91515574958685,50.67394991288779],[2.92566456879763,50.6633676409981],[2.92922883743866,50.65890085134688],[2.90956681388737,50.64811954945677],[2.89912398782688,50.647259281903],[2.89587206744608,50.64989484241359],[2.8953218727678,50.6564546110675],[2.87622137620529,50.6623772097953],[2.86624285253151,50.66121838620871],[2.86078200897473,50.6703841602617]]]],"type":"MultiPolygon"}
 }

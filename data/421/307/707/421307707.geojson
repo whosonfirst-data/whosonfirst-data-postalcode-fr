@@ -4,26 +4,32 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "frgov:DEP":"78",
+    "frgov:ID":"78111",
+    "frgov:LIB":"Dammartin-en-Serve",
+    "frgov:POP2010":1028.0,
+    "frgov:SURF":13.785183,
+    "frgov:_COL6":372.689,
+    "geom:area":0.001696,
+    "geom:bbox":"1.58319012288,48.8880303999,1.65514592921,48.9371889714",
+    "geom:latitude":48.911407,
+    "geom:longitude":1.617813,
     "gp:parent_id":"12642772",
     "iso:country":"FR",
     "mz:hierarchy_label":1,
-    "src:geom":"geoplanet",
+    "src:geom":"frgov",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12727470"
     },
     "wof:country":"FR",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"a7f64b6c6eb31789af505b52ca864c11",
     "wof:hierarchy":[],
     "wof:id":421307707,
-    "wof:lastmodified":1474569866,
+    "wof:lastmodified":1478902005,
     "wof:name":"78111",
-    "wof:parent_id":-1,
+    "wof:parent_id":85633147,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-fr",
     "wof:superseded_by":[],
@@ -31,10 +37,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    1.583190122882315,
+    48.88803039985924,
+    1.655145929205891,
+    48.937188971367696
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[[[[1.58319012288232,48.89422520850071],[1.58720576757857,48.89652087820323],[1.58686807748878,48.90344299569313],[1.60899471241509,48.92701398754188],[1.60608789250114,48.9371889713677],[1.61829315744767,48.93307608317915],[1.64533477933232,48.92159334376872],[1.65514592920589,48.9126655619278],[1.64915260543298,48.90701198566189],[1.64005713458925,48.9052547669132],[1.63188691427683,48.89687738873216],[1.60086067214896,48.8975536920325],[1.59506120058624,48.8885451071361],[1.58566441377378,48.88803039985924],[1.58319012288232,48.89422520850071]]]],"type":"MultiPolygon"}
 }

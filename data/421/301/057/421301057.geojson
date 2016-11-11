@@ -4,26 +4,32 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "frgov:DEP":"34",
+    "frgov:ID":"34810",
+    "frgov:LIB":"Pomrols",
+    "frgov:POP2010":2177.0,
+    "frgov:SURF":11.026901,
+    "frgov:_COL6":936.0,
+    "geom:area":0.001227,
+    "geom:bbox":"3.48798871019,43.3705592221,3.55056550918,43.4300850455",
+    "geom:latitude":43.396662,
+    "geom:longitude":3.514702,
     "gp:parent_id":"12668339",
     "iso:country":"FR",
     "mz:hierarchy_label":1,
-    "src:geom":"geoplanet",
+    "src:geom":"frgov",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12724555"
     },
     "wof:country":"FR",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"d1b95296a990a719d1f3a776a161346c",
     "wof:hierarchy":[],
     "wof:id":421301057,
-    "wof:lastmodified":1474569862,
+    "wof:lastmodified":1478901992,
     "wof:name":"34810",
-    "wof:parent_id":-1,
+    "wof:parent_id":85633147,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-fr",
     "wof:superseded_by":[],
@@ -31,10 +37,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    3.487988710193316,
+    43.37055922213732,
+    3.550565509183174,
+    43.43008504553731
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[[[[3.48798871019332,43.38193116653658],[3.48884290000985,43.40836888670303],[3.49433766652475,43.40305329363159],[3.51444504123014,43.39422405923824],[3.52350793759597,43.39508085737376],[3.53880767327564,43.40313819370309],[3.53912376231229,43.4065736325576],[3.52667889405337,43.41120478373033],[3.51834154758843,43.42682714366982],[3.52564178851211,43.43008504553731],[3.55004160870822,43.40628486698694],[3.55056550918317,43.40292602461643],[3.53015914822977,43.39514646872355],[3.52829824270985,43.38869630613735],[3.50202584226218,43.37055922213732],[3.48798871019332,43.38193116653658]]]],"type":"MultiPolygon"}
 }
