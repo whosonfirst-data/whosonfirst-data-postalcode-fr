@@ -4,26 +4,32 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "frgov:DEP":"54",
+    "frgov:ID":"54650",
+    "frgov:LIB":"Saulnes",
+    "frgov:POP2010":2350.0,
+    "frgov:SURF":4.077659,
+    "frgov:_COL6":1059.55,
+    "geom:area":0.000508,
+    "geom:bbox":"5.8044384476,49.5179704574,5.84418008131,49.5417801187",
+    "geom:latitude":49.52939,
+    "geom:longitude":5.826425,
     "gp:parent_id":"12669511",
     "iso:country":"FR",
     "mz:hierarchy_label":1,
-    "src:geom":"geoplanet",
+    "src:geom":"frgov",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12725635"
     },
     "wof:country":"FR",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"0698ab70dfd5bef8f65218344807aa81",
     "wof:hierarchy":[],
     "wof:id":421303503,
-    "wof:lastmodified":1474569864,
+    "wof:lastmodified":1478901997,
     "wof:name":"54650",
-    "wof:parent_id":-1,
+    "wof:parent_id":85633147,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-fr",
     "wof:superseded_by":[],
@@ -31,10 +37,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    5.804438447597041,
+    49.517970457410314,
+    5.844180081311865,
+    49.541780118699194
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[[[[5.80443844759704,49.52472962417963],[5.81813230114297,49.53385541208049],[5.81719909124519,49.53699727260442],[5.83617190098257,49.54178011869919],[5.84418008131187,49.52966789951012],[5.83526079877688,49.52652182889823],[5.83603156987685,49.51995723311355],[5.82173694520019,49.51797045741031],[5.81599430622264,49.52333840102022],[5.81094962202099,49.52278099539499],[5.80443844759704,49.52472962417963]]]],"type":"MultiPolygon"}
 }

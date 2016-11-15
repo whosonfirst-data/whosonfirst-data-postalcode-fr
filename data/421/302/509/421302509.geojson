@@ -4,26 +4,32 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "frgov:DEP":"45",
+    "frgov:ID":"45770",
+    "frgov:LIB":"Saran",
+    "frgov:POP2010":15120.0,
+    "frgov:SURF":19.168327,
+    "frgov:_COL6":6106.94,
+    "geom:area":0.002315,
+    "geom:bbox":"1.84220776043,47.9267500105,1.91962517621,47.9710503565",
+    "geom:latitude":47.949831,
+    "geom:longitude":1.878097,
     "gp:parent_id":"12651649",
     "iso:country":"FR",
     "mz:hierarchy_label":1,
-    "src:geom":"geoplanet",
+    "src:geom":"frgov",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12725194"
     },
     "wof:country":"FR",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"e783c55c9485a2c8e5ba2fa221f48a25",
     "wof:hierarchy":[],
     "wof:id":421302509,
-    "wof:lastmodified":1474569864,
+    "wof:lastmodified":1478901995,
     "wof:name":"45770",
-    "wof:parent_id":-1,
+    "wof:parent_id":85633147,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-fr",
     "wof:superseded_by":[],
@@ -31,10 +37,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    1.842207760434091,
+    47.926750010488774,
+    1.919625176209309,
+    47.97105035648762
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[[[[1.84220776043409,47.95984383640892],[1.85154529485488,47.96737874057632],[1.86547132380664,47.97105035648762],[1.87110204422132,47.96591179533986],[1.91962517620931,47.96477481777381],[1.91618567831358,47.94745359250592],[1.89405109803077,47.93930965089631],[1.89505403808291,47.93230759075139],[1.88527332380659,47.92678755505755],[1.86439606530732,47.92675001048877],[1.84469412479353,47.94474746066521],[1.84220776043409,47.95984383640892]]]],"type":"MultiPolygon"}
 }

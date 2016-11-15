@@ -4,26 +4,32 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "frgov:DEP":"59",
+    "frgov:ID":"59480",
+    "frgov:LIB":"La  Basse",
+    "frgov:POP2010":7654.0,
+    "frgov:SURF":11.475851,
+    "frgov:_COL6":3175.234,
+    "geom:area":0.001461,
+    "geom:bbox":"2.79447216037,50.5269078749,2.8549620385,50.5830999375",
+    "geom:latitude":50.555597,
+    "geom:longitude":2.822472,
     "gp:parent_id":"12597175",
     "iso:country":"FR",
     "mz:hierarchy_label":1,
-    "src:geom":"geoplanet",
+    "src:geom":"frgov",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12726121"
     },
     "wof:country":"FR",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"3d815a2ebc04b16339661e3b379bbc78",
     "wof:hierarchy":[],
     "wof:id":421304597,
-    "wof:lastmodified":1474569865,
+    "wof:lastmodified":1478901999,
     "wof:name":"59480",
-    "wof:parent_id":-1,
+    "wof:parent_id":85633147,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-fr",
     "wof:superseded_by":[],
@@ -31,10 +37,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    2.79447216037269,
+    50.52690787489719,
+    2.854962038503146,
+    50.58309993752915
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[[[[2.80821982982991,50.57885495225879],[2.82592325509823,50.58309993752915],[2.83946185406728,50.56822832355196],[2.84902558568116,50.56488393985983],[2.85496203850315,50.55875143277768],[2.84203867776855,50.55057760692672],[2.82156636175679,50.54397025311928],[2.82465722643135,50.53796116594501],[2.81233859172567,50.5289680076088],[2.8037719815083,50.52690787489719],[2.79938611883663,50.52857100001145],[2.80123714915596,50.53768333442268],[2.79447216037269,50.54920637534164],[2.80379054564471,50.55118695474361],[2.81316583991901,50.54930732145989],[2.81504816630836,50.5659682415387],[2.80821982982991,50.57885495225879]]]],"type":"MultiPolygon"}
 }

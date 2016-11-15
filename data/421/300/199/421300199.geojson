@@ -4,26 +4,32 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "frgov:DEP":"29",
+    "frgov:ID":"29850",
+    "frgov:LIB":"Gouesnou",
+    "frgov:POP2010":6126.0,
+    "frgov:SURF":12.33564,
+    "frgov:_COL6":2403.84,
+    "geom:area":0.001504,
+    "geom:bbox":"-4.49269466187,48.4245028243,-4.43073730636,48.4694440202",
+    "geom:latitude":48.446718,
+    "geom:longitude":-4.463279,
     "gp:parent_id":"12644085",
     "iso:country":"FR",
     "mz:hierarchy_label":1,
-    "src:geom":"geoplanet",
+    "src:geom":"frgov",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12724177"
     },
     "wof:country":"FR",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"22f7541c802b6741476c2c65c56903df",
     "wof:hierarchy":[],
     "wof:id":421300199,
-    "wof:lastmodified":1474569861,
+    "wof:lastmodified":1478901990,
     "wof:name":"29850",
-    "wof:parent_id":-1,
+    "wof:parent_id":85633147,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-fr",
     "wof:superseded_by":[],
@@ -31,10 +37,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -4.492694661867308,
+    48.42450282434138,
+    -4.43073730635856,
+    48.4694440201632
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[[[[-4.47834601747335,48.46761122253395],[-4.47408262034998,48.4694440201632],[-4.47018829922567,48.46728545649561],[-4.45981419772785,48.45676185418311],[-4.44485944167803,48.45524586608838],[-4.43092285698965,48.45909384631546],[-4.43073730635856,48.44935640800262],[-4.43928081763848,48.4461078047097],[-4.4439936535313,48.43300753247146],[-4.4596491369622,48.42450282434138],[-4.46667776175267,48.42914702399497],[-4.47168454268614,48.42864938748559],[-4.48453021773245,48.43871825321025],[-4.48482638017349,48.4454503461396],[-4.49269466186731,48.45383591047835],[-4.47834601747335,48.46761122253395]]]],"type":"MultiPolygon"}
 }

@@ -4,26 +4,32 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "frgov:DEP":"66",
+    "frgov:ID":"66430",
+    "frgov:LIB":"Bompas",
+    "frgov:POP2010":7246.0,
+    "frgov:SURF":5.14921,
+    "frgov:_COL6":2922.51,
+    "geom:area":0.000567,
+    "geom:bbox":"2.92455435579,42.7146626812,2.96011745654,42.739976174",
+    "geom:latitude":42.728693,
+    "geom:longitude":2.94228,
     "gp:parent_id":"12657297",
     "iso:country":"FR",
     "mz:hierarchy_label":1,
-    "src:geom":"geoplanet",
+    "src:geom":"frgov",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12726701"
     },
     "wof:country":"FR",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"fa7676a6ae254c812476bd40e2bc1c27",
     "wof:hierarchy":[],
     "wof:id":421305905,
-    "wof:lastmodified":1474569865,
+    "wof:lastmodified":1478902001,
     "wof:name":"66430",
-    "wof:parent_id":-1,
+    "wof:parent_id":85633147,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-fr",
     "wof:superseded_by":[],
@@ -31,10 +37,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    2.924554355789068,
+    42.71466268124257,
+    2.96011745654235,
+    42.739976173954965
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[[[[2.92455435578907,42.73051004245713],[2.93321860196172,42.73773657801864],[2.9417091685262,42.73635615064545],[2.9532078612337,42.73997617395496],[2.95737980933055,42.73920470387817],[2.96011745654235,42.73323574534438],[2.95805079973141,42.72264357592443],[2.94906372215507,42.72306208558048],[2.93019589040904,42.71466268124257],[2.92455435578907,42.73051004245713]]]],"type":"MultiPolygon"}
 }

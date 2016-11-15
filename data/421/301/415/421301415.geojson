@@ -4,26 +4,32 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "frgov:DEP":"37",
+    "frgov:ID":"37550",
+    "frgov:LIB":"Saint-Avertin",
+    "frgov:POP2010":13947.0,
+    "frgov:SURF":13.075931,
+    "frgov:_COL6":5876.66,
+    "geom:area":0.001561,
+    "geom:bbox":"0.704629811174,47.3359110783,0.763807721737,47.3766860288",
+    "geom:latitude":47.357156,
+    "geom:longitude":0.737544,
     "gp:parent_id":"12651452",
     "iso:country":"FR",
     "mz:hierarchy_label":1,
-    "src:geom":"geoplanet",
+    "src:geom":"frgov",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12724713"
     },
     "wof:country":"FR",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"69eb270446092b29ab68f65997a312e0",
     "wof:hierarchy":[],
     "wof:id":421301415,
-    "wof:lastmodified":1474569862,
+    "wof:lastmodified":1478901993,
     "wof:name":"37550",
-    "wof:parent_id":-1,
+    "wof:parent_id":85633147,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-fr",
     "wof:superseded_by":[],
@@ -31,10 +37,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    0.704629811174124,
+    47.33591107830686,
+    0.763807721736625,
+    47.376686028751614
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[[[[0.71726837718495,47.37333146843705],[0.73733097716728,47.37668602875161],[0.73909477001811,47.37038922813436],[0.75094570097745,47.37479837917972],[0.76237753312175,47.36965154990253],[0.75804984761049,47.35962602002959],[0.76380772173663,47.33885208424164],[0.74493233187508,47.33591107830686],[0.72312605069113,47.34994043108772],[0.71386230697775,47.34747977774813],[0.70462981117412,47.35018024531957],[0.71652197614373,47.37196497549965],[0.71726837718495,47.37333146843705]]]],"type":"MultiPolygon"}
 }

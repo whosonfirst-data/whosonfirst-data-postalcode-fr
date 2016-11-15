@@ -4,26 +4,32 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "frgov:DEP":"95",
+    "frgov:ID":"95200",
+    "frgov:LIB":"Sarcelles",
+    "frgov:POP2010":58614.0,
+    "frgov:SURF":8.69087,
+    "frgov:_COL6":18445.43,
+    "geom:area":0.001071,
+    "geom:bbox":"2.36364735518,48.9712927787,2.40813679551,49.013469868",
+    "geom:latitude":48.990225,
+    "geom:longitude":2.381603,
     "gp:parent_id":"12641375",
     "iso:country":"FR",
     "mz:hierarchy_label":1,
-    "src:geom":"geoplanet",
+    "src:geom":"frgov",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12728421"
     },
     "wof:country":"FR",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"d91cb4ef9e1ad6e880ee0fcd6e2fd52c",
     "wof:hierarchy":[],
     "wof:id":421309851,
-    "wof:lastmodified":1474569867,
+    "wof:lastmodified":1478902008,
     "wof:name":"95200",
-    "wof:parent_id":-1,
+    "wof:parent_id":85633147,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-fr",
     "wof:superseded_by":[],
@@ -31,10 +37,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    2.36364735518387,
+    48.971292778689964,
+    2.408136795512552,
+    49.0134698680106
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[[[[2.36364735518387,49.00957372060975],[2.37958009736729,49.0134698680106],[2.38161505353681,49.00331029946216],[2.40813679551255,48.99197008454687],[2.40079588669948,48.98266227605989],[2.38244710205717,48.97129277868996],[2.37593552785153,48.97202335035237],[2.36615530727678,48.97422901053719],[2.36424361360775,48.97871537249959],[2.36782951276413,48.98375211955798],[2.36569015572058,48.98883926232408],[2.36836444155175,48.99932964563006],[2.36364735518387,49.00957372060975]]]],"type":"MultiPolygon"}
 }

@@ -4,26 +4,32 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "frgov:DEP":"57",
+    "frgov:ID":"57540",
+    "frgov:LIB":"Petite-Rosselle",
+    "frgov:POP2010":6593.0,
+    "frgov:SURF":5.067833,
+    "frgov:_COL6":2660.46,
+    "geom:area":0.000627,
+    "geom:bbox":"6.83765483181,49.1935173627,6.88480809216,49.2216311141",
+    "geom:latitude":49.20954,
+    "geom:longitude":6.859243,
     "gp:parent_id":"12668139",
     "iso:country":"FR",
     "mz:hierarchy_label":1,
-    "src:geom":"geoplanet",
+    "src:geom":"frgov",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12725834"
     },
     "wof:country":"FR",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"a77eed1f8aae9d96577decb5a2d0a315",
     "wof:hierarchy":[],
     "wof:id":421303951,
-    "wof:lastmodified":1474569864,
+    "wof:lastmodified":1478901998,
     "wof:name":"57540",
-    "wof:parent_id":-1,
+    "wof:parent_id":85633147,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-fr",
     "wof:superseded_by":[],
@@ -31,10 +37,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    6.837654831805842,
+    49.19351736266954,
+    6.884808092164944,
+    49.22163111405314
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[[[[6.88480809216494,49.21110722885477],[6.85013926129405,49.19351736266954],[6.85116596443873,49.20045966021607],[6.83765483180584,49.21126082797192],[6.84044409430803,49.2142315503831],[6.85844534173968,49.22163111405314],[6.88480809216494,49.21110722885477]]]],"type":"MultiPolygon"}
 }

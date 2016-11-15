@@ -4,26 +4,32 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "frgov:DEP":"69",
+    "frgov:ID":"69001",
+    "frgov:LIB":"Lyon",
+    "frgov:POP2010":28755.0,
+    "frgov:SURF":1.404694,
+    "frgov:_COL6":15342.93,
+    "geom:area":0.000163,
+    "geom:bbox":"4.81286988437,45.7647117851,4.83975708664,45.7746265435",
+    "geom:latitude":45.769928,
+    "geom:longitude":4.829225,
     "gp:parent_id":"24865732",
     "iso:country":"FR",
     "mz:hierarchy_label":1,
-    "src:geom":"geoplanet",
+    "src:geom":"frgov",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12726916"
     },
     "wof:country":"FR",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"999c63228eef686fc97d5426ea060eb8",
     "wof:hierarchy":[],
     "wof:id":421306387,
-    "wof:lastmodified":1474569865,
+    "wof:lastmodified":1478902002,
     "wof:name":"69001",
-    "wof:parent_id":-1,
+    "wof:parent_id":85633147,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-fr",
     "wof:superseded_by":[],
@@ -31,10 +37,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    4.812869884368556,
+    45.7647117851487,
+    4.839757086641901,
+    45.77462654350257
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[[[[4.81286988436856,45.77130201123869],[4.83562035786025,45.77462654350257],[4.83973834579351,45.77307339205782],[4.8397570866419,45.76627286422531],[4.83049000517492,45.7647117851487],[4.82823408012842,45.76732477473948],[4.81969642264898,45.76715625782226],[4.81286988436856,45.77130201123869]]]],"type":"MultiPolygon"}
 }

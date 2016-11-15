@@ -4,26 +4,32 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "frgov:DEP":"68",
+    "frgov:ID":"68118",
+    "frgov:LIB":"Hirtzbach",
+    "frgov:POP2010":1315.0,
+    "frgov:SURF":14.030065,
+    "frgov:_COL6":539.971,
+    "geom:area":0.001683,
+    "geom:bbox":"7.18585978144,47.5655824594,7.23681363008,47.6109511927",
+    "geom:latitude":47.590621,
+    "geom:longitude":7.208431,
     "gp:parent_id":"12645217",
     "iso:country":"FR",
     "mz:hierarchy_label":1,
-    "src:geom":"geoplanet",
+    "src:geom":"frgov",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12726831"
     },
     "wof:country":"FR",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"bbc6969e59e3cbb37409e637b3574d40",
     "wof:hierarchy":[],
     "wof:id":421306197,
-    "wof:lastmodified":1474569865,
+    "wof:lastmodified":1478902015,
     "wof:name":"68118",
-    "wof:parent_id":-1,
+    "wof:parent_id":85633147,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-fr",
     "wof:superseded_by":[],
@@ -31,10 +37,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    7.18585978144299,
+    47.56558245939618,
+    7.236813630083133,
+    47.61095119273216
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[[[[7.18585978144299,47.59565568750352],[7.1879573021627,47.60556721004519],[7.19483683088681,47.61051238780869],[7.21990452577099,47.61095119273216],[7.23681363008313,47.60280269880291],[7.22036809157312,47.57130799851313],[7.20795488352939,47.56558245939618],[7.19509806927642,47.57010207753259],[7.1861803737188,47.57730981279677],[7.18647256174934,47.58918847038308],[7.18959081864322,47.59413285923788],[7.18585978144299,47.59565568750352]]]],"type":"MultiPolygon"}
 }

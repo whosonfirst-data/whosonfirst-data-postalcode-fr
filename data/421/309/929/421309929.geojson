@@ -4,26 +4,32 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "frgov:DEP":"95",
+    "frgov:ID":"95550",
+    "frgov:LIB":"Bessancourt",
+    "frgov:POP2010":6994.0,
+    "frgov:SURF":6.114718,
+    "frgov:_COL6":2672.22,
+    "geom:area":0.000754,
+    "geom:bbox":"2.16829744152,49.0254322105,2.22859942407,49.0472021301",
+    "geom:latitude":49.037308,
+    "geom:longitude":2.19851,
     "gp:parent_id":"12638768",
     "iso:country":"FR",
     "mz:hierarchy_label":1,
-    "src:geom":"geoplanet",
+    "src:geom":"frgov",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12728456"
     },
     "wof:country":"FR",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"5bca858fd1f5d0b17716da653ad17368",
     "wof:hierarchy":[],
     "wof:id":421309929,
-    "wof:lastmodified":1474569867,
+    "wof:lastmodified":1478902008,
     "wof:name":"95550",
-    "wof:parent_id":-1,
+    "wof:parent_id":85633147,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-fr",
     "wof:superseded_by":[],
@@ -31,10 +37,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    2.168297441523564,
+    49.025432210484034,
+    2.228599424066831,
+    49.04720213005921
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[[[[2.17988975958178,49.02679433750423],[2.17478105799707,49.02891936890235],[2.16859564686141,49.03149061535257],[2.16829744152356,49.03161507124543],[2.16830024825581,49.03161913719602],[2.17388593466405,49.03876697942518],[2.18558626102544,49.04454808664585],[2.18998860663518,49.04289641935345],[2.21413429372312,49.04720213005921],[2.22386175596703,49.04530447820829],[2.22859942406683,49.04409436227804],[2.22829190374775,49.04076527080756],[2.22009870175519,49.03265543297641],[2.19528684942007,49.03110715202448],[2.18316470300811,49.02543221048403],[2.17988975958178,49.02679433750423]]]],"type":"MultiPolygon"}
 }

@@ -4,26 +4,32 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "frgov:DEP":"42",
+    "frgov:ID":"42350",
+    "frgov:LIB":"La  Talaudire",
+    "frgov:POP2010":6459.0,
+    "frgov:SURF":7.811932,
+    "frgov:_COL6":2590.75,
+    "geom:area":0.000901,
+    "geom:bbox":"4.40448819615,45.458637031,4.44763252662,45.4964657266",
+    "geom:latitude":45.478341,
+    "geom:longitude":4.423937,
     "gp:parent_id":"20075146",
     "iso:country":"FR",
     "mz:hierarchy_label":1,
-    "src:geom":"geoplanet",
+    "src:geom":"frgov",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12724961"
     },
     "wof:country":"FR",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"d57976ba3ab186e0ec779ce30ec1c142",
     "wof:hierarchy":[],
     "wof:id":421301975,
-    "wof:lastmodified":1474569863,
+    "wof:lastmodified":1478901994,
     "wof:name":"42350",
-    "wof:parent_id":-1,
+    "wof:parent_id":85633147,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-fr",
     "wof:superseded_by":[],
@@ -31,10 +37,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    4.404488196151013,
+    45.45863703098769,
+    4.447632526621617,
+    45.496465726556096
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[[[[4.40448819615101,45.48091906017246],[4.40897517181827,45.49025558375859],[4.40576466067959,45.4964657265561],[4.42037244044435,45.49480422741913],[4.44763252662162,45.47701098221774],[4.44735025860344,45.47058517690747],[4.42995982683053,45.4667913185214],[4.42312008177187,45.45863703098769],[4.41248421920367,45.46612052474714],[4.41225423837859,45.47317517478501],[4.40448819615101,45.48091906017246]]]],"type":"MultiPolygon"}
 }

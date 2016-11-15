@@ -4,26 +4,32 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "frgov:DEP":"13",
+    "frgov:ID":"13850",
+    "frgov:LIB":"Grasque",
+    "frgov:POP2010":4109.0,
+    "frgov:SURF":6.129023,
+    "frgov:_COL6":1674.97,
+    "geom:area":0.000683,
+    "geom:bbox":"5.52947986877,43.4075534342,5.56341642768,43.4407593664",
+    "geom:latitude":43.426203,
+    "geom:longitude":5.546851,
     "gp:parent_id":"12662356",
     "iso:country":"FR",
     "mz:hierarchy_label":1,
-    "src:geom":"geoplanet",
+    "src:geom":"frgov",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12723178"
     },
     "wof:country":"FR",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"9cf04ce331f32fef463c4661897ea844",
     "wof:hierarchy":[],
     "wof:id":421297953,
-    "wof:lastmodified":1474569860,
+    "wof:lastmodified":1478902012,
     "wof:name":"13850",
-    "wof:parent_id":-1,
+    "wof:parent_id":85633147,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-fr",
     "wof:superseded_by":[],
@@ -31,10 +37,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    5.529479868767739,
+    43.407553434170765,
+    5.56341642768042,
+    43.440759366425894
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[[[[5.52947986876774,43.44014806205813],[5.54832063237436,43.44075936642589],[5.55871815235233,43.43399740842044],[5.55826278571599,43.42155038090582],[5.56341642768042,43.41637005278056],[5.56149856008036,43.41016830955022],[5.5594432212247,43.40755343417077],[5.54635574097619,43.41562980207293],[5.53323406669591,43.41654933055474],[5.53525300197479,43.42539537309801],[5.52947986876774,43.44014806205813]]]],"type":"MultiPolygon"}
 }

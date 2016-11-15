@@ -4,26 +4,32 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "frgov:DEP":"76",
+    "frgov:ID":"76580",
+    "frgov:LIB":"Le  Trait",
+    "frgov:POP2010":5270.0,
+    "frgov:SURF":17.601447,
+    "frgov:_COL6":2318.45,
+    "geom:area":0.002191,
+    "geom:bbox":"0.773953690861,49.4606607715,0.860317925702,49.5034728425",
+    "geom:latitude":49.484277,
+    "geom:longitude":0.819211,
     "gp:parent_id":"12646497",
     "iso:country":"FR",
     "mz:hierarchy_label":1,
-    "src:geom":"geoplanet",
+    "src:geom":"frgov",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12727311"
     },
     "wof:country":"FR",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"dbd798b6036b9db7dc00cc009f79a45a",
     "wof:hierarchy":[],
     "wof:id":421307345,
-    "wof:lastmodified":1474569866,
+    "wof:lastmodified":1478902004,
     "wof:name":"76580",
-    "wof:parent_id":-1,
+    "wof:parent_id":85633147,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-fr",
     "wof:superseded_by":[],
@@ -31,10 +37,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    0.773953690860573,
+    49.46066077151911,
+    0.860317925702232,
+    49.50347284254621
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[[[[0.77395369086057,49.48707858984444],[0.78628254023239,49.49853399513714],[0.80645313167324,49.50266811655194],[0.83652634214936,49.49860482730558],[0.85034831135346,49.50347284254621],[0.84733722178529,49.48339668806414],[0.86031792570223,49.4781872939364],[0.84439327922431,49.46569495554171],[0.83137607083547,49.46066077151911],[0.82628921980621,49.46092967652368],[0.82304205029588,49.46724627803229],[0.81324317465837,49.46669133193652],[0.8044265234925,49.47511845062382],[0.78056791550224,49.48026803277595],[0.77491125932141,49.48569342893606],[0.77395369086057,49.48707858984444]]]],"type":"MultiPolygon"}
 }

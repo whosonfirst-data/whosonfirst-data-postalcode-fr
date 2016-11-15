@@ -4,26 +4,32 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "frgov:DEP":"84",
+    "frgov:ID":"84260",
+    "frgov:LIB":"Sarrians",
+    "frgov:POP2010":5809.0,
+    "frgov:SURF":37.907673,
+    "frgov:_COL6":2347.4,
+    "geom:area":0.004269,
+    "geom:bbox":"4.91574199264,44.0539786868,4.99356493917,44.1496894536",
+    "geom:latitude":44.099315,
+    "geom:longitude":4.957269,
     "gp:parent_id":"22756882",
     "iso:country":"FR",
     "mz:hierarchy_label":1,
-    "src:geom":"geoplanet",
+    "src:geom":"frgov",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12727860"
     },
     "wof:country":"FR",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"eeb6c32c70edd16f29989785be7358d7",
     "wof:hierarchy":[],
     "wof:id":421308587,
-    "wof:lastmodified":1474569866,
+    "wof:lastmodified":1478902006,
     "wof:name":"84260",
-    "wof:parent_id":-1,
+    "wof:parent_id":85633147,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-fr",
     "wof:superseded_by":[],
@@ -31,10 +37,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    4.915741992636185,
+    44.05397868675032,
+    4.993564939170578,
+    44.14968945357766
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[[[[4.91574199263619,44.10399158603207],[4.93426603095817,44.12296050781846],[4.95088640908102,44.12940892341236],[4.95214403850627,44.14968945357766],[4.96685991758733,44.14202551243867],[4.98490395611414,44.12526875175346],[4.99200470319072,44.10069572471457],[4.99356493917058,44.0953013049489],[4.98703037706954,44.09026131802932],[4.98419273333112,44.07660110788164],[4.97738823824052,44.07194353734833],[4.9789233045896,44.06511865862979],[4.94239665834846,44.05397868675032],[4.93854723718478,44.07071149600895],[4.93311565299433,44.07584954823346],[4.91574199263619,44.10399158603207]]]],"type":"MultiPolygon"}
 }

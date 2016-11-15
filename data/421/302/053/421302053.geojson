@@ -4,26 +4,32 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "frgov:DEP":"42",
+    "frgov:ID":"42700",
+    "frgov:LIB":"Firminy",
+    "frgov:POP2010":17133.0,
+    "frgov:SURF":10.361995,
+    "frgov:_COL6":7850.0,
+    "geom:area":0.001193,
+    "geom:bbox":"4.2708013875,45.3590703511,4.30819856525,45.4093829178",
+    "geom:latitude":45.378815,
+    "geom:longitude":4.288794,
     "gp:parent_id":"12659263",
     "iso:country":"FR",
     "mz:hierarchy_label":1,
-    "src:geom":"geoplanet",
+    "src:geom":"frgov",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12724995"
     },
     "wof:country":"FR",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"42cec91b03da6983180bb5000c67756b",
     "wof:hierarchy":[],
     "wof:id":421302053,
-    "wof:lastmodified":1474569863,
+    "wof:lastmodified":1478901994,
     "wof:name":"42700",
-    "wof:parent_id":-1,
+    "wof:parent_id":85633147,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-fr",
     "wof:superseded_by":[],
@@ -31,10 +37,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    4.270801387496663,
+    45.359070351119755,
+    4.308198565249496,
+    45.40938291777251
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[[[[4.27080138749666,45.3749205294236],[4.27551272054186,45.38640299766378],[4.27209641910203,45.39186348659407],[4.28484035751517,45.39523923936432],[4.29461706398293,45.40938291777251],[4.29403140922764,45.40622014838343],[4.3014410814596,45.40269384144916],[4.29758942109292,45.3976326418374],[4.3081985652495,45.37098727601791],[4.30772570827079,45.36443586378928],[4.30381801898295,45.36283324028645],[4.29564377640925,45.36403674558836],[4.28975533903867,45.35907035111975],[4.27163109228577,45.35976404869301],[4.27080138749666,45.3749205294236]]]],"type":"MultiPolygon"}
 }

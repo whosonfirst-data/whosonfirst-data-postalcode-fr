@@ -4,26 +4,32 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "frgov:DEP":"69",
+    "frgov:ID":"69160",
+    "frgov:LIB":"Tassin-la-Demi-Lune",
+    "frgov:POP2010":19511.0,
+    "frgov:SURF":8.166163,
+    "frgov:_COL6":8564.32,
+    "geom:area":0.000947,
+    "geom:bbox":"4.7118352095,45.7502178622,4.79245579526,45.7768664198",
+    "geom:latitude":45.762868,
+    "geom:longitude":4.755406,
     "gp:parent_id":"22757764",
     "iso:country":"FR",
     "mz:hierarchy_label":1,
-    "src:geom":"geoplanet",
+    "src:geom":"frgov",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12726927"
     },
     "wof:country":"FR",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"e0b88811239438ae4c408256245d6795",
     "wof:hierarchy":[],
     "wof:id":421306431,
-    "wof:lastmodified":1474569865,
+    "wof:lastmodified":1478902002,
     "wof:name":"69160",
-    "wof:parent_id":-1,
+    "wof:parent_id":85633147,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-fr",
     "wof:superseded_by":[],
@@ -31,10 +37,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    4.711835209497409,
+    45.75021786222824,
+    4.7924557952615,
+    45.77686641975125
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[[[[4.7119662961641,45.77394105875534],[4.72682094232517,45.77686641975125],[4.74313617151011,45.77012205620378],[4.76121239597443,45.77068747644606],[4.77200395648782,45.76448378092479],[4.7924557952615,45.7732939561342],[4.78656151620808,45.76416417276855],[4.78222149034045,45.75568510468431],[4.7717061591082,45.7507889870159],[4.75233844884151,45.75021786222824],[4.74413731488368,45.75247062415258],[4.74388884585512,45.75561798207131],[4.73393648330749,45.77059700121614],[4.71517554577395,45.76784851847824],[4.71183520949741,45.76886296076328],[4.7119662961641,45.77394105875534]]]],"type":"MultiPolygon"}
 }

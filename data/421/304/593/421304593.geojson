@@ -4,26 +4,32 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "frgov:DEP":"59",
+    "frgov:ID":"59460",
+    "frgov:LIB":"Jeumont",
+    "frgov:POP2010":9772.0,
+    "frgov:SURF":9.865787,
+    "frgov:_COL6":4009.09,
+    "geom:area":0.001249,
+    "geom:bbox":"4.07916379006,50.2674326126,4.12505596141,50.3121373575",
+    "geom:latitude":50.291377,
+    "geom:longitude":4.104057,
     "gp:parent_id":"12663043",
     "iso:country":"FR",
     "mz:hierarchy_label":1,
-    "src:geom":"geoplanet",
+    "src:geom":"frgov",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12726119"
     },
     "wof:country":"FR",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"85496dbcffe1ea241a1b8c9184b9a45b",
     "wof:hierarchy":[],
     "wof:id":421304593,
-    "wof:lastmodified":1474569865,
+    "wof:lastmodified":1478901999,
     "wof:name":"59460",
-    "wof:parent_id":-1,
+    "wof:parent_id":85633147,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-fr",
     "wof:superseded_by":[],
@@ -31,10 +37,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    4.079163790064171,
+    50.26743261261466,
+    4.125055961405066,
+    50.312137357541566
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[[[[4.12401208832419,50.27276437643553],[4.11775609431911,50.26743261261466],[4.11273192046642,50.26831349014068],[4.10922709728014,50.27456834173294],[4.0912320817995,50.28089806212833],[4.08846056654731,50.27453750511931],[4.08884758718388,50.28402560134904],[4.07916379006417,50.30966679208141],[4.09933775894488,50.31213735754157],[4.10842598340094,50.30389339495098],[4.11835905910755,50.30226834434816],[4.12505596140507,50.28946591948507],[4.12401208832419,50.27276437643553]]]],"type":"MultiPolygon"}
 }

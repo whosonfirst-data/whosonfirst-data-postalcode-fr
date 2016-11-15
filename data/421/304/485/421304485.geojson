@@ -4,26 +4,32 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "frgov:DEP":"59",
+    "frgov:ID":"59262",
+    "frgov:LIB":"Sainghin-en-Mlantois",
+    "frgov:POP2010":2493.0,
+    "frgov:SURF":10.667774,
+    "frgov:_COL6":1023.21,
+    "geom:area":0.001359,
+    "geom:bbox":"3.13306245641,50.5670341793,3.19297213574,50.6019665579",
+    "geom:latitude":50.587733,
+    "geom:longitude":3.163421,
     "gp:parent_id":"12669334",
     "iso:country":"FR",
     "mz:hierarchy_label":1,
-    "src:geom":"geoplanet",
+    "src:geom":"frgov",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12726071"
     },
     "wof:country":"FR",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"64af518050c803dc78cb50c698e51fb4",
     "wof:hierarchy":[],
     "wof:id":421304485,
-    "wof:lastmodified":1474569864,
+    "wof:lastmodified":1478902015,
     "wof:name":"59262",
-    "wof:parent_id":-1,
+    "wof:parent_id":85633147,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-fr",
     "wof:superseded_by":[],
@@ -31,10 +37,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    3.133062456412283,
+    50.56703417934341,
+    3.192972135739057,
+    50.60196655791473
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[[[[3.13306245641228,50.58588803191834],[3.13794009470755,50.60120284078717],[3.15458885945922,50.60156715184699],[3.17295642574287,50.60196655791473],[3.18687666902864,50.59859821276623],[3.19214375855645,50.59329508420154],[3.19297213573906,50.59235184462493],[3.1814185306482,50.58246112300368],[3.18479671571981,50.57330147255092],[3.18032078261182,50.56703417934341],[3.16366264246814,50.57124876704984],[3.15382041515054,50.57842319625634],[3.13522679449872,50.58300487308251],[3.13306245641228,50.58588803191834]]]],"type":"MultiPolygon"}
 }
