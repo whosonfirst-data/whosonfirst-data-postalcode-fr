@@ -11,7 +11,7 @@
     "frgov:SURF":211.259977,
     "frgov:_COL6":1866.5803,
     "geom:area":0.023323,
-    "geom:area_square_m":140841622.596994,
+    "geom:area_square_m":211275582.880159,
     "geom:bbox":"0.575934802873,42.8257193709,0.859882444626,42.9640683849",
     "geom:latitude":42.895409,
     "geom:longitude":0.723035,
@@ -24,7 +24,7 @@
         85683397,
         102191581,
         85633147,
-        404373055,
+        404350771,
         404227865,
         404227443,
         102069485
@@ -34,13 +34,13 @@
         "gp:id":"12724308"
     },
     "wof:country":"FR",
-    "wof:geomhash":"228c7bf7e43be630687de6e703bb6c01",
+    "wof:geomhash":"ea6386dc4a8ecba1eec819f7cc3bfd64",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633147,
             "county_id":102069485,
-            "localadmin_id":404373055,
+            "localadmin_id":404350771,
             "macrocounty_id":404227865,
             "macroregion_id":404227443,
             "postalcode_id":421300495,
@@ -48,9 +48,9 @@
         }
     ],
     "wof:id":421300495,
-    "wof:lastmodified":1478901991,
+    "wof:lastmodified":1480903005,
     "wof:name":"31440",
-    "wof:parent_id":85633147,
+    "wof:parent_id":404350771,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-fr",
     "wof:superseded_by":[],
@@ -58,8 +58,8 @@
     "wof:tags":[]
 },
   "bbox": [
-    0.575934802872565,
-    42.825719370940234,
+    0.57593480287257,
+    42.82571937094023,
     0.85988244462605,
     42.96406838489503
 ],

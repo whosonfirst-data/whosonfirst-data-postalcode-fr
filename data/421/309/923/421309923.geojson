@@ -11,6 +11,7 @@
     "frgov:SURF":12.366367,
     "frgov:_COL6":5432.26,
     "geom:area":0.001527,
+    "geom:area_square_m":12367656.336492,
     "geom:bbox":"2.02776585011,49.0471693779,2.09481532265,49.0857124711",
     "geom:latitude":49.067659,
     "geom:longitude":2.063117,
@@ -18,18 +19,37 @@
     "iso:country":"FR",
     "mz:hierarchy_label":1,
     "src:geom":"frgov",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683451,
+        102191581,
+        85633147,
+        404376753,
+        404228193,
+        404227465,
+        102069741
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12728453"
     },
     "wof:country":"FR",
-    "wof:geomhash":"2d14854000533cc6c338ff432dbc9d85",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0846345c6105ccfa08d04355121fc04d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102069741,
+            "localadmin_id":404376753,
+            "macrocounty_id":404228193,
+            "macroregion_id":404227465,
+            "postalcode_id":421309923,
+            "region_id":85683451
+        }
+    ],
     "wof:id":421309923,
-    "wof:lastmodified":1478902008,
+    "wof:lastmodified":1480939073,
     "wof:name":"95520",
-    "wof:parent_id":85633147,
+    "wof:parent_id":404376753,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-fr",
     "wof:superseded_by":[],
@@ -37,7 +57,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    2.027765850106519,
+    2.02776585010652,
     49.04716937793586,
     2.09481532264904,
     49.08571247112548

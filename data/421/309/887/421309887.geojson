@@ -11,6 +11,7 @@
     "frgov:SURF":3.155469,
     "frgov:_COL6":4680.77,
     "geom:area":0.000389,
+    "geom:area_square_m":3155721.529747,
     "geom:bbox":"2.32832758332,48.9553822465,2.36615530728,48.9787153725",
     "geom:latitude":48.969919,
     "geom:longitude":2.346075,
@@ -18,18 +19,39 @@
     "iso:country":"FR",
     "mz:hierarchy_label":1,
     "src:geom":"frgov",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683451,
+        102191581,
+        85633147,
+        404411635,
+        404228003,
+        404227465,
+        101750079,
+        102065955
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12728437"
     },
     "wof:country":"FR",
-    "wof:geomhash":"4f0818b796ebd8d54212058ec64ff63d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cd4e39dada028f322fe8076923899031",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102065955,
+            "localadmin_id":404411635,
+            "locality_id":101750079,
+            "macrocounty_id":404228003,
+            "macroregion_id":404227465,
+            "postalcode_id":421309887,
+            "region_id":85683451
+        }
+    ],
     "wof:id":421309887,
-    "wof:lastmodified":1478902008,
+    "wof:lastmodified":1480938960,
     "wof:name":"95360",
-    "wof:parent_id":85633147,
+    "wof:parent_id":101750079,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-fr",
     "wof:superseded_by":[],
@@ -37,10 +59,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    2.328327583318927,
+    2.32832758331893,
     48.95538224647359,
-    2.366155307276784,
-    48.978715372499586
+    2.36615530727678,
+    48.97871537249959
 ],
   "geometry": {"coordinates":[[[[2.331949854154,48.96898977044879],[2.34430803066493,48.97791527618575],[2.36424361360775,48.97871537249959],[2.36615530727678,48.97422901053719],[2.35346328828391,48.96562740550285],[2.34370549117698,48.96721087813481],[2.33331308781922,48.95538224647359],[2.32832758331893,48.95966215093444],[2.331949854154,48.96898977044879]]]],"type":"MultiPolygon"}
 }

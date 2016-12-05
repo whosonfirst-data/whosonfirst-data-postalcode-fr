@@ -11,7 +11,7 @@
     "frgov:SURF":9.603318,
     "frgov:_COL6":612.0,
     "geom:area":0.001122,
-    "geom:area_square_m":7801969.276771,
+    "geom:area_square_m":9605739.007575,
     "geom:bbox":"-1.48089817825,46.1841499328,-1.40001321937,46.214093942",
     "geom:latitude":46.201072,
     "geom:longitude":-1.436617,
@@ -21,29 +21,34 @@
     "mz:is_approximate":1,
     "src:geom":"frgov",
     "wof:belongsto":[
+        85683275,
+        102191581,
         404393153,
         85633147,
-        85683275
+        404227435,
+        102064769
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12723425"
     },
     "wof:country":"FR",
-    "wof:geomhash":"71156a3d0be54b757a39aaef08abd2cc",
+    "wof:geomhash":"ad3cf3ec54c9aa44a8f7fbaa9b9ec93a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633147,
+            "county_id":102064769,
             "localadmin_id":404393153,
+            "macroregion_id":404227435,
             "postalcode_id":421298509,
             "region_id":85683275
         }
     ],
     "wof:id":421298509,
-    "wof:lastmodified":1478902010,
+    "wof:lastmodified":1480789161,
     "wof:name":"17670",
-    "wof:parent_id":85633147,
+    "wof:parent_id":404393153,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-fr",
     "wof:superseded_by":[],
@@ -51,10 +56,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -1.480898178254259,
+    -1.48089817825426,
     46.18414993277101,
-    -1.400013219367341,
-    46.214093941965075
+    -1.40001321936734,
+    46.21409394196507
 ],
   "geometry": {"coordinates":[[[[-1.48089817825426,46.21002629910427],[-1.4443986972178,46.21409394196507],[-1.42477992413216,46.20524573709456],[-1.4058135744019,46.20312376742485],[-1.40051863908637,46.20334630641999],[-1.40001321936734,46.20061531951075],[-1.41179269025339,46.18414993277101],[-1.46971850067474,46.20340470524826],[-1.47462673663281,46.20276110357705],[-1.48089817825426,46.21002629910427]]]],"type":"MultiPolygon"}
 }

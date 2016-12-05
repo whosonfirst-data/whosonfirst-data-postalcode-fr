@@ -11,7 +11,7 @@
     "frgov:SURF":236.323161,
     "frgov:_COL6":6851.902,
     "geom:area":0.028313,
-    "geom:area_square_m":310223788.164438,
+    "geom:area_square_m":236341382.776414,
     "geom:bbox":"-2.42302727763,47.4559791185,-2.09673132594,47.6153205995",
     "geom:latitude":47.539355,
     "geom:longitude":-2.275645,
@@ -27,7 +27,6 @@
         404361991,
         404228119,
         404227447,
-        101759759,
         102070041
     ],
     "wof:breaches":[],
@@ -35,14 +34,13 @@
         "gp:id":"12725702"
     },
     "wof:country":"FR",
-    "wof:geomhash":"36ac3e73587d6280c6ed8e18bb87f69b",
+    "wof:geomhash":"e7c4553fb0254871b35d307f1a569780",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070041,
             "localadmin_id":404361991,
-            "locality_id":101759759,
             "macrocounty_id":404228119,
             "macroregion_id":404227447,
             "postalcode_id":421303655,
@@ -50,9 +48,9 @@
         }
     ],
     "wof:id":421303655,
-    "wof:lastmodified":1478901997,
+    "wof:lastmodified":1480939080,
     "wof:name":"56130",
-    "wof:parent_id":85633147,
+    "wof:parent_id":404361991,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-fr",
     "wof:superseded_by":[],
@@ -60,8 +58,8 @@
     "wof:tags":[]
 },
   "bbox": [
-    -2.423027277626423,
-    47.455979118490184,
+    -2.42302727762642,
+    47.45597911849018,
     -2.0967313259369,
     47.61532059953791
 ],

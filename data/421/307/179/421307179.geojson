@@ -11,6 +11,7 @@
     "frgov:SURF":1.077007,
     "frgov:_COL6":20753.62,
     "geom:area":0.000132,
+    "geom:area_square_m":1077109.95051,
     "geom:bbox":"2.35008862652,48.855740363,2.36840103906,48.869279351",
     "geom:latitude":48.863054,
     "geom:longitude":2.359361,
@@ -18,18 +19,37 @@
     "iso:country":"FR",
     "mz:hierarchy_label":1,
     "src:geom":"frgov",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683497,
+        102191581,
+        85633147,
+        404227749,
+        404227465,
+        101751119,
+        102068177
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"20068140"
     },
     "wof:country":"FR",
-    "wof:geomhash":"39966c2f7ae51d3d288d9eb8b469c7a5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a1a4ee28004827c09a69f38014ec7e90",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102068177,
+            "locality_id":101751119,
+            "macrocounty_id":404227749,
+            "macroregion_id":404227465,
+            "postalcode_id":421307179,
+            "region_id":85683497
+        }
+    ],
     "wof:id":421307179,
-    "wof:lastmodified":1478902007,
+    "wof:lastmodified":1480908402,
     "wof:name":"75003",
-    "wof:parent_id":85633147,
+    "wof:parent_id":101751119,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-fr",
     "wof:superseded_by":[],
@@ -37,9 +57,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    2.350088626519612,
+    2.35008862651961,
     48.85574036303805,
-    2.368401039058592,
+    2.36840103905859,
     48.86927935103908
 ],
   "geometry": {"coordinates":[[[[2.35083355248719,48.86334427949448],[2.35411485041088,48.86927935103908],[2.36385716365848,48.86743468202398],[2.36840103905859,48.85574036303805],[2.35008862651961,48.86195560268105],[2.35083355248719,48.86334427949448]]]],"type":"MultiPolygon"}

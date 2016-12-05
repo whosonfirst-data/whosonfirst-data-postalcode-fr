@@ -11,7 +11,7 @@
     "frgov:SURF":85.479556,
     "frgov:_COL6":6673.0,
     "geom:area":0.010272,
-    "geom:area_square_m":87779594.758555,
+    "geom:area_square_m":85486766.437235,
     "geom:bbox":"-2.12906860057,47.6313602033,-1.97340057155,47.7544369442",
     "geom:latitude":47.697449,
     "geom:longitude":-2.05833,
@@ -27,7 +27,6 @@
         404356863,
         404227873,
         404227447,
-        101763829,
         102069489
     ],
     "wof:breaches":[],
@@ -35,14 +34,13 @@
         "gp:id":"12724621"
     },
     "wof:country":"FR",
-    "wof:geomhash":"36bf76c6b4ec1609b14a98b2fed7d9a7",
+    "wof:geomhash":"5257dab86cb860ed96da1e58b23af637",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633147,
             "county_id":102069489,
             "localadmin_id":404356863,
-            "locality_id":101763829,
             "macrocounty_id":404227873,
             "macroregion_id":404227447,
             "postalcode_id":421301207,
@@ -50,9 +48,9 @@
         }
     ],
     "wof:id":421301207,
-    "wof:lastmodified":1478902007,
+    "wof:lastmodified":1480917257,
     "wof:name":"35600",
-    "wof:parent_id":85633147,
+    "wof:parent_id":404356863,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-fr",
     "wof:superseded_by":[],
@@ -60,7 +58,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    -2.129068600571411,
+    -2.12906860057141,
     47.63136020330486,
     -1.9734005715536,
     47.75443694424577

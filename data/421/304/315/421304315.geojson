@@ -11,6 +11,7 @@
     "frgov:SURF":21.363598,
     "frgov:_COL6":2528.516,
     "geom:area":0.002709,
+    "geom:area_square_m":21365110.398876,
     "geom:bbox":"3.29915902997,50.3433659435,3.37260318351,50.4055272041",
     "geom:latitude":50.36894,
     "geom:longitude":3.338069,
@@ -18,18 +19,39 @@
     "iso:country":"FR",
     "mz:hierarchy_label":1,
     "src:geom":"frgov",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683445,
+        102191581,
+        85633147,
+        404407969,
+        404228125,
+        404227429,
+        101811351,
+        102071215
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12725996"
     },
     "wof:country":"FR",
-    "wof:geomhash":"4228ad7b4220bb309d06178633a245a9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"65d21a241833ee61800bb16cc43f5ad4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102071215,
+            "localadmin_id":404407969,
+            "locality_id":101811351,
+            "macrocounty_id":404228125,
+            "macroregion_id":404227429,
+            "postalcode_id":421304315,
+            "region_id":85683445
+        }
+    ],
     "wof:id":421304315,
-    "wof:lastmodified":1478901999,
+    "wof:lastmodified":1480917285,
     "wof:name":"59171",
-    "wof:parent_id":85633147,
+    "wof:parent_id":101811351,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-fr",
     "wof:superseded_by":[],
@@ -37,8 +59,8 @@
     "wof:tags":[]
 },
   "bbox": [
-    3.299159029967839,
-    50.343365943516424,
+    3.29915902996784,
+    50.34336594351642,
     3.37260318350777,
     50.40552720409904
 ],

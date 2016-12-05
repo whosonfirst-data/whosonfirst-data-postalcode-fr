@@ -11,6 +11,7 @@
     "frgov:SURF":3.9124,
     "frgov:_COL6":7282.1,
     "geom:area":0.000482,
+    "geom:area_square_m":3912815.131646,
     "geom:bbox":"2.28537998874,48.9750811231,2.31526295548,49.002015492",
     "geom:latitude":48.988408,
     "geom:longitude":2.3005,
@@ -18,18 +19,39 @@
     "iso:country":"FR",
     "mz:hierarchy_label":1,
     "src:geom":"frgov",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683451,
+        102191581,
+        85633147,
+        404417045,
+        404228003,
+        404227465,
+        101751347,
+        102068797
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12728424"
     },
     "wof:country":"FR",
-    "wof:geomhash":"2c39c23dc98a0c4d1388a1c1024955f7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4e7fa10e1d2b494f8dfd979de021b7f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102068797,
+            "localadmin_id":404417045,
+            "locality_id":101751347,
+            "macrocounty_id":404228003,
+            "macroregion_id":404227465,
+            "postalcode_id":421309857,
+            "region_id":85683451
+        }
+    ],
     "wof:id":421309857,
-    "wof:lastmodified":1478902008,
+    "wof:lastmodified":1480908470,
     "wof:name":"95230",
-    "wof:parent_id":85633147,
+    "wof:parent_id":101751347,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-fr",
     "wof:superseded_by":[],
@@ -39,7 +61,7 @@
   "bbox": [
     2.28537998874079,
     48.97508112313606,
-    2.315262955482642,
+    2.31526295548264,
     49.00201549195724
 ],
   "geometry": {"coordinates":[[[[2.28537998874079,48.98440443737327],[2.29286260742375,48.99584254035133],[2.31062742488886,49.00201549195724],[2.31526295548264,49.00081875616386],[2.30701728900319,48.97759840512263],[2.30337873937116,48.97891704014952],[2.29785668359645,48.97508112313606],[2.29185800078081,48.97624164735539],[2.28537998874079,48.98440443737327]]]],"type":"MultiPolygon"}

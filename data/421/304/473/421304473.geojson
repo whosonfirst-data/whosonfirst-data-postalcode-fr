@@ -11,6 +11,7 @@
     "frgov:SURF":5.040052,
     "frgov:_COL6":1196.87,
     "geom:area":0.000639,
+    "geom:area_square_m":5040015.579796,
     "geom:bbox":"3.38169079539,50.3434590324,3.42284072531,50.3687915201",
     "geom:latitude":50.353738,
     "geom:longitude":3.403103,
@@ -18,18 +19,39 @@
     "iso:country":"FR",
     "mz:hierarchy_label":1,
     "src:geom":"frgov",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683445,
+        102191581,
+        85633147,
+        404387533,
+        404228303,
+        404227429,
+        101812687,
+        102068319
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12726066"
     },
     "wof:country":"FR",
-    "wof:geomhash":"e49b1f8915a3d1f0a0435fcdcb879071",
-    "wof:hierarchy":[],
+    "wof:geomhash":"82f5010f48379b06ff73bc45ba083984",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102068319,
+            "localadmin_id":404387533,
+            "locality_id":101812687,
+            "macrocounty_id":404228303,
+            "macroregion_id":404227429,
+            "postalcode_id":421304473,
+            "region_id":85683445
+        }
+    ],
     "wof:id":421304473,
-    "wof:lastmodified":1478901999,
+    "wof:lastmodified":1480917252,
     "wof:name":"59255",
-    "wof:parent_id":85633147,
+    "wof:parent_id":101812687,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-fr",
     "wof:superseded_by":[],
@@ -37,9 +59,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    3.381690795391934,
+    3.38169079539193,
     50.3434590324149,
-    3.422840725305163,
+    3.42284072530516,
     50.36879152007176
 ],
   "geometry": {"coordinates":[[[[3.38169079539193,50.35306852461514],[3.40899890858952,50.36879152007176],[3.42187280626301,50.35401547395499],[3.42284072530516,50.34713521544897],[3.39703669312751,50.3434590324149],[3.38216325297532,50.34690832505643],[3.38169079539193,50.35306852461514]]]],"type":"MultiPolygon"}

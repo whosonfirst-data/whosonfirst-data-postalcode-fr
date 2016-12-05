@@ -11,7 +11,7 @@
     "frgov:SURF":2.390397,
     "frgov:_COL6":18685.11,
     "geom:area":0.000266,
-    "geom:area_square_m":2729769.952097,
+    "geom:area_square_m":2390589.574634,
     "geom:bbox":"5.36912452042,43.3015944318,5.39318365237,43.3200829278",
     "geom:latitude":43.31212,
     "geom:longitude":5.38011,
@@ -24,7 +24,7 @@
         85683441,
         102191581,
         85633147,
-        404428817,
+        404428819,
         404228029,
         404227445,
         101749199,
@@ -35,13 +35,13 @@
         "gp:id":"20068097"
     },
     "wof:country":"FR",
-    "wof:geomhash":"7181141b2cafdfdc95733358248d3e0a",
+    "wof:geomhash":"a967c3d608ef27bea3a9fe7556c164cd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072499,
-            "localadmin_id":404428817,
+            "localadmin_id":404428819,
             "locality_id":101749199,
             "macrocounty_id":404228029,
             "macroregion_id":404227445,
@@ -50,9 +50,9 @@
         }
     ],
     "wof:id":421297701,
-    "wof:lastmodified":1478902008,
+    "wof:lastmodified":1480843337,
     "wof:name":"13003",
-    "wof:parent_id":85633147,
+    "wof:parent_id":101749199,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-fr",
     "wof:superseded_by":[],
@@ -60,9 +60,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    5.369124520420858,
+    5.36912452042086,
     43.30159443183818,
-    5.393183652367585,
+    5.39318365236759,
     43.32008292775168
 ],
   "geometry": {"coordinates":[[[[5.36912452042086,43.31672618190566],[5.37157999049139,43.32008292775168],[5.39318365236759,43.31641172833471],[5.39050291422527,43.30939767502608],[5.37502229116293,43.30159443183818],[5.36912452042086,43.31672618190566]]]],"type":"MultiPolygon"}

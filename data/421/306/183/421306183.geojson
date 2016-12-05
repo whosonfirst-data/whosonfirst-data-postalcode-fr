@@ -11,7 +11,7 @@
     "frgov:SURF":5.146348,
     "frgov:_COL6":300.302,
     "geom:area":0.000629,
-    "geom:area_square_m":314821.098786,
+    "geom:area_square_m":5146690.14083,
     "geom:bbox":"7.53897292852,48.5808853334,7.58682841083,48.601805782",
     "geom:latitude":48.590139,
     "geom:longitude":7.56184,
@@ -27,7 +27,6 @@
         404371735,
         404228325,
         404227419,
-        101883387,
         102070075
     ],
     "wof:breaches":[],
@@ -35,14 +34,13 @@
         "gp:id":"12726825"
     },
     "wof:country":"FR",
-    "wof:geomhash":"eff7da95af18d5fc469cc088ad009392",
+    "wof:geomhash":"74d2a986dc07da6aedb56f9908936d9c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070075,
             "localadmin_id":404371735,
-            "locality_id":101883387,
             "macrocounty_id":404228325,
             "macroregion_id":404227419,
             "postalcode_id":421306183,
@@ -50,9 +48,9 @@
         }
     ],
     "wof:id":421306183,
-    "wof:lastmodified":1478902011,
+    "wof:lastmodified":1480939040,
     "wof:name":"67990",
-    "wof:parent_id":85633147,
+    "wof:parent_id":404371735,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-fr",
     "wof:superseded_by":[],
@@ -60,7 +58,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    7.538972928516243,
+    7.53897292851624,
     48.58088533344947,
     7.58682841082801,
     48.60180578203951

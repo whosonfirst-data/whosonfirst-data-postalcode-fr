@@ -11,7 +11,7 @@
     "frgov:SURF":4.425621,
     "frgov:_COL6":9737.66,
     "geom:area":0.000546,
-    "geom:area_square_m":5166254.59801,
+    "geom:area_square_m":4426125.906182,
     "geom:bbox":"2.26347427653,48.9762416474,2.29286260742,49.0064890748",
     "geom:latitude":48.990994,
     "geom:longitude":2.278009,
@@ -26,27 +26,17 @@
         85633147,
         404228193,
         404227465,
-        101752755,
+        101750045,
         102065591,
-        101750045
+        101752755
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12728461"
     },
     "wof:country":"FR",
-    "wof:geomhash":"b2d9b1a2f74bbf8cf55dc7c7d8f73a2b",
+    "wof:geomhash":"b4f90c4463753d9c61f75d42dd7cf7fb",
     "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633147,
-            "county_id":102065591,
-            "locality_id":101752755,
-            "macrocounty_id":404228193,
-            "macroregion_id":404227465,
-            "postalcode_id":421309941,
-            "region_id":85683451
-        },
         {
             "continent_id":102191581,
             "country_id":85633147,
@@ -56,12 +46,22 @@
             "macroregion_id":404227465,
             "postalcode_id":421309941,
             "region_id":85683451
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102065591,
+            "locality_id":101752755,
+            "macrocounty_id":404228193,
+            "macroregion_id":404227465,
+            "postalcode_id":421309941,
+            "region_id":85683451
         }
     ],
     "wof:id":421309941,
-    "wof:lastmodified":1478902015,
+    "wof:lastmodified":1480938886,
     "wof:name":"95600",
-    "wof:parent_id":85633147,
+    "wof:parent_id":-1,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-fr",
     "wof:superseded_by":[],
@@ -69,9 +69,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    2.263474276526965,
+    2.26347427652696,
     48.97624164735539,
-    2.292862607423747,
+    2.29286260742375,
     49.00648907478066
 ],
   "geometry": {"coordinates":[[[[2.26347427652696,48.99817464698923],[2.27337668561935,49.00648907478066],[2.28314316475551,49.00295135916904],[2.28273459038393,48.99984614316405],[2.29033557264758,48.99670802428926],[2.29286260742375,48.99584254035133],[2.28537998874079,48.98440443737327],[2.29185800078081,48.97624164735539],[2.27384609896232,48.97678088639339],[2.26347427652696,48.99817464698923]]]],"type":"MultiPolygon"}

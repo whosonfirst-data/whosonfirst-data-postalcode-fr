@@ -11,7 +11,7 @@
     "frgov:SURF":134.970841,
     "frgov:_COL6":2962.508,
     "geom:area":0.014925,
-    "geom:area_square_m":158847624.42147,
+    "geom:area_square_m":134981004.522633,
     "geom:bbox":"1.74354667282,42.9314704126,2.00489543679,43.0598137341",
     "geom:latitude":42.996973,
     "geom:longitude":1.867334,
@@ -27,7 +27,6 @@
         404403697,
         404227815,
         404227443,
-        101897807,
         102066077
     ],
     "wof:breaches":[],
@@ -35,14 +34,13 @@
         "gp:id":"12722931"
     },
     "wof:country":"FR",
-    "wof:geomhash":"a0c14484c6e7396bf3e593330c21638a",
+    "wof:geomhash":"0d94dfd84a4235814a9aadf5bf2cf137",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633147,
             "county_id":102066077,
             "localadmin_id":404403697,
-            "locality_id":101897807,
             "macrocounty_id":404227815,
             "macroregion_id":404227443,
             "postalcode_id":421297361,
@@ -50,9 +48,9 @@
         }
     ],
     "wof:id":421297361,
-    "wof:lastmodified":1478902011,
+    "wof:lastmodified":1480938887,
     "wof:name":"09600",
-    "wof:parent_id":85633147,
+    "wof:parent_id":404403697,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-fr",
     "wof:superseded_by":[],
@@ -60,7 +58,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    1.743546672815958,
+    1.74354667281596,
     42.93147041259366,
     2.00489543679303,
     43.05981373406932

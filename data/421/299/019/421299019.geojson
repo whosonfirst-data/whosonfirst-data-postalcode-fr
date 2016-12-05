@@ -11,7 +11,7 @@
     "frgov:SURF":272.081513,
     "frgov:_COL6":2455.7048,
     "geom:area":0.032417,
-    "geom:area_square_m":239447768.414271,
+    "geom:area_square_m":272100342.576266,
     "geom:bbox":"4.35768823246,47.1628088471,4.67660592572,47.3217772071",
     "geom:latitude":47.248219,
     "geom:longitude":4.524588,
@@ -27,6 +27,7 @@
         404362849,
         404227627,
         404227425,
+        101889449,
         102069071
     ],
     "wof:breaches":[],
@@ -34,13 +35,14 @@
         "gp:id":"12723653"
     },
     "wof:country":"FR",
-    "wof:geomhash":"fc4bc4fe3f0185456fce4f76dd87291c",
+    "wof:geomhash":"c8f4392a64a6a87203e112632a01d78d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633147,
             "county_id":102069071,
             "localadmin_id":404362849,
+            "locality_id":101889449,
             "macrocounty_id":404227627,
             "macroregion_id":404227425,
             "postalcode_id":421299019,
@@ -48,9 +50,9 @@
         }
     ],
     "wof:id":421299019,
-    "wof:lastmodified":1478902014,
+    "wof:lastmodified":1480938977,
     "wof:name":"21320",
-    "wof:parent_id":85633147,
+    "wof:parent_id":101889449,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-fr",
     "wof:superseded_by":[],
@@ -58,8 +60,8 @@
     "wof:tags":[]
 },
   "bbox": [
-    4.357688232457862,
-    47.162808847089266,
+    4.35768823245786,
+    47.16280884708927,
     4.67660592572093,
     47.32177720710799
 ],

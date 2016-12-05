@@ -11,7 +11,7 @@
     "frgov:SURF":34.144621,
     "frgov:_COL6":12932.764,
     "geom:area":0.003819,
-    "geom:area_square_m":52983116.843124,
+    "geom:area_square_m":34147632.621365,
     "geom:bbox":"1.39368772897,43.651298595,1.51278496763,43.7331335809",
     "geom:latitude":43.694627,
     "geom:longitude":1.454648,
@@ -24,23 +24,25 @@
         85683397,
         102191581,
         85633147,
-        404413975,
+        404408791,
         404228067,
         404227443,
-        102071527
+        101753149,
+        102071573
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12724278"
     },
     "wof:country":"FR",
-    "wof:geomhash":"61e97e423000b9e4932504907171e100",
+    "wof:geomhash":"4bab2cb256f470aaec310519cb1bbc12",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633147,
-            "county_id":102071527,
-            "localadmin_id":404413975,
+            "county_id":102071573,
+            "localadmin_id":404408791,
+            "locality_id":101753149,
             "macrocounty_id":404228067,
             "macroregion_id":404227443,
             "postalcode_id":421300427,
@@ -48,9 +50,9 @@
         }
     ],
     "wof:id":421300427,
-    "wof:lastmodified":1478901991,
+    "wof:lastmodified":1480938812,
     "wof:name":"31140",
-    "wof:parent_id":85633147,
+    "wof:parent_id":101753149,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-fr",
     "wof:superseded_by":[],
@@ -58,8 +60,8 @@
     "wof:tags":[]
 },
   "bbox": [
-    1.393687728968571,
-    43.651298594984524,
+    1.39368772896857,
+    43.65129859498452,
     1.51278496763127,
     43.73313358086081
 ],
