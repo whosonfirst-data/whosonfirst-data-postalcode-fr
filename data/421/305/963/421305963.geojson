@@ -23,11 +23,12 @@
     "wof:belongsto":[
         85683169,
         102191581,
-        85633147,
-        404389151,
         404227943,
-        404227437,
+        404389151,
+        85633147,
+        1108826387,
         101831567,
+        136253037,
         102069359
     ],
     "wof:breaches":[],
@@ -35,22 +36,23 @@
         "gp:id":"12726727"
     },
     "wof:country":"FR",
-    "wof:geomhash":"45deeda2df5e41ba795a4f2eddcdfa20",
+    "wof:geomhash":"c2dd6138238e638cafbbda5f042ce566",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633147,
             "county_id":102069359,
+            "empire_id":136253037,
             "localadmin_id":404389151,
             "locality_id":101831567,
             "macrocounty_id":404227943,
-            "macroregion_id":404227437,
+            "macroregion_id":1108826387,
             "postalcode_id":421305963,
             "region_id":85683169
         }
     ],
     "wof:id":421305963,
-    "wof:lastmodified":1480903091,
+    "wof:lastmodified":1496506287,
     "wof:name":"66750",
     "wof:parent_id":101831567,
     "wof:placetype":"postalcode",

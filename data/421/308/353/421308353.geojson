@@ -21,12 +21,13 @@
     "mz:is_approximate":1,
     "src:geom":"frgov",
     "wof:belongsto":[
-        85683389,
+        85683217,
         102191581,
         85633147,
         404390669,
-        404227687,
-        404227443,
+        404227977,
+        1108826387,
+        136253037,
         102067655
     ],
     "wof:breaches":[],
@@ -34,21 +35,22 @@
         "gp:id":"12727755"
     },
     "wof:country":"FR",
-    "wof:geomhash":"753799549e9ef396074c3831e9167fda",
+    "wof:geomhash":"e10a656d3044c419bfd76b35f13626e3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633147,
             "county_id":102067655,
+            "empire_id":136253037,
             "localadmin_id":404390669,
-            "macrocounty_id":404227687,
-            "macroregion_id":404227443,
+            "macrocounty_id":404227977,
+            "macroregion_id":1108826387,
             "postalcode_id":421308353,
-            "region_id":85683389
+            "region_id":85683217
         }
     ],
     "wof:id":421308353,
-    "wof:lastmodified":1480938940,
+    "wof:lastmodified":1496507239,
     "wof:name":"82270",
     "wof:parent_id":404390669,
     "wof:placetype":"postalcode",
